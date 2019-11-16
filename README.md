@@ -105,6 +105,8 @@ Son 4 ejercicios:
 ---
 >.
 ---
+
+
 ## Dudas que surgen
 
 - El término de segundo orden en la forma derivada de las ecuaciones de EulerLagrange tiene algo que ver con el jacobiano.
@@ -112,6 +114,8 @@ Son 4 ejercicios:
 ---
 >.
 ---
+
+
 ## Problemas
 ### Problemas propuestos
 
@@ -129,6 +133,8 @@ Son 4 ejercicios:
 ---
 >.
 ---
+
+
 ## To Do
 
 ### Importante
@@ -145,8 +151,6 @@ Son 4 ejercicios:
 - [ ] Repasar rango de Matriz
 - [ ] Repasar metodo multiplicadores de Lagrange
 - [ ]
-
-
 
 
 ---
@@ -268,5 +272,5 @@ Intervalo Publicitario
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mzc5MTc5OF19
+eyJoaXN0b3J5IjpbLTM0MjA5MTIxMF19
 -->
