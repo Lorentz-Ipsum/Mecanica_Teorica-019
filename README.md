@@ -2,7 +2,7 @@
 Apuntes
 
 
-# Resultados del aprendizaje (según Documento de Verificación de la Titulación)
+# Resultados del aprendizaje
 
 Profundizar en los principios y las técnicas fundamentales del formalismo hamiltoniano de los sistemas dinámicos.
 
@@ -272,5 +272,5 @@ Intervalo Publicitario
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjA5MTIxMF19
+eyJoaXN0b3J5IjpbLTIxMzcxODU5NjVdfQ==
 -->
