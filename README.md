@@ -14,6 +14,44 @@ Formulación hamiltoniana de la Mecánica Clásica. Integrabilidad. Perturbac
 
 Matemáticas de 1o y 2o del Grado en Físicas. Mecánica Clásica del Grado en Físicas.
 
+# Programa de la asignatura
+
+1. Mecánica lagrangiana
+1.1. Dinámica lagrangiana: Espacio de configuración, trayectorias y variaciones infinitesimales, principio variacional, ecuaciones de Euler-Lagrange, características de la acción, ligaduras.
+1.2. Cantidades conservadas: Teorema de Noether, coordenadas cíclicas, teorema de Noether, variaciones temporales, energía, partícula en un potencial, invariancia bajo reparametrizaciones temporales, simetrías gauge.
+1.3. Dinámica relativista: Acción: Partículas libres y partículas en un campo electromagnético, ecuaciones de movimiento, cantidades conservadas: Cuadrimomento, momento angular cuadridimensional, centro de inercia e invariantes de Casimir.
+
+2. Mecánica hamiltoniana
+2.1. Sistemas hamiltonianos: Transformación de Legendre, ecuaciones de Hamilton, espacio de fases, corchetes de Poisson.
+2.2. Geometría simpléctica: Forma simpléctica, ecuaciones de Hamilton, flujos hamiltonianos, flujo de un campo vectorial, campos vectoriales hamiltonianos, teorema de Noether, variedades simplécticas, teorema de Darboux y reducción por simetría.
+2.3. Transformaciones canónicas: Simplectomorfismos, transformaciones canonoides, función generatriz y tipos de transformaciones canónicas.
+2.4. Invariantes: Teorema de Liouville, distribuciones estadísticas, invariante integral de Poincaré, espacio de fases extendido, invariante integral de Poincaré-Cartan y cantidades conservadas.
+
+3. Integrabilidad
+3.1. Teoría de Hamilton-Jacobi: ecuación de Hamilton-Jacobi, función principal de Hamilton, soluciones completas, separación de variables, hamiltonianos conservados, coordenadas cíclicas, variables separables, teorema de Huygens y analogía óptica,
+3.2. Teoremas de integrabilidad: teorema de Liouville, teorema de Arnold, variables de acción-ángulo, movimiento condicionalmente periódico.
+
+4. Temas de especialización:
+4.1. Teoría cláscia de campos
+4.2. Perturbaciones
+4.3. Caos
+4.4. Dinámica de Fluidos
+
+
+
+# Bibliografía
+
+## Básica
+▪ F. R. Gantmájer, Mecánica Analítica, URSS, 2003.
+▪ H. Goldstein, C. Poole, J. Safko, Classical Mechanics, Third Edition, Addison Wesley, 2002.
+▪ J. V. José, E. J. Saletan, Classical Dynamics, Cambridge University Press, 1998.
+▪ L. Meirovitch, Methods of Analytical Dynamics, Dover Publications, 2010.
+▪ E. J. Saletan, A. H. Cromer, Theoretical Mechanics, Wiley, 1971.
+
+## Complementaria
+▪ V.I.Arnold,MathematicalMethodsofClassicalMechanics,SecondEdition,Springer-Verlag,1989. ▪ A. F. Fasano, S. Marmi, Analytical Mechanics, Oxford University Press, 2006.
+▪ A. J. Lichtenberg, M. A. Lieberman, Regular and Chaotic Dynamics, Second Edition, Springer- Verlag, 1992.
+▪ F. A. Scheck, Mechanics: From Newton’s Laws to Deterministic Chaos, Fourth Edition, Springer, 2005.
 
 
 ---
@@ -28,6 +66,18 @@ Matemáticas de 1o y 2o del Grado en Físicas. Mecánica Clásica del Grado 
 
 
 # Grupo A
+
+# Tutorias
+José Alberto Ruiz Cembranos
+M,J: 10:30 – 12:00 (+3 no presenciales)
+cembra@fis.ucm.es
+Despacho 17 3a Pl. Oeste
+
+Hector Villarrubia Rojo
+A determinar
+hectorvi@ucm.es
+Despacho 1 3a Pl. Oeste
+
 
 ## Evaluacion
 
@@ -217,55 +267,6 @@ Intervalo Publicitario
 >
 ---
 
-# Tutorias
-José Alberto Ruiz Cembranos
-M,J: 10:30 – 12:00 (+3 no presenciales)
-cembra@fis.ucm.es
-Despacho 17 3a Pl. Oeste
-
-Hector Villarrubia Rojo
-A determinar
-hectorvi@ucm.es
-Despacho 1 3a Pl. Oeste
-
-# Programa de la asignatura
-
-1. Mecánica lagrangiana
-1.1. Dinámica lagrangiana: Espacio de configuración, trayectorias y variaciones infinitesimales, principio variacional, ecuaciones de Euler-Lagrange, características de la acción, ligaduras.
-1.2. Cantidades conservadas: Teorema de Noether, coordenadas cíclicas, teorema de Noether, variaciones temporales, energía, partícula en un potencial, invariancia bajo reparametrizaciones temporales, simetrías gauge.
-1.3. Dinámica relativista: Acción: Partículas libres y partículas en un campo electromagnético, ecuaciones de movimiento, cantidades conservadas: Cuadrimomento, momento angular cuadridimensional, centro de inercia e invariantes de Casimir.
-
-2. Mecánica hamiltoniana
-2.1. Sistemas hamiltonianos: Transformación de Legendre, ecuaciones de Hamilton, espacio de fases, corchetes de Poisson.
-2.2. Geometría simpléctica: Forma simpléctica, ecuaciones de Hamilton, flujos hamiltonianos, flujo de un campo vectorial, campos vectoriales hamiltonianos, teorema de Noether, variedades simplécticas, teorema de Darboux y reducción por simetría.
-2.3. Transformaciones canónicas: Simplectomorfismos, transformaciones canonoides, función generatriz y tipos de transformaciones canónicas.
-2.4. Invariantes: Teorema de Liouville, distribuciones estadísticas, invariante integral de Poincaré, espacio de fases extendido, invariante integral de Poincaré-Cartan y cantidades conservadas.
-
-3. Integrabilidad
-3.1. Teoría de Hamilton-Jacobi: ecuación de Hamilton-Jacobi, función principal de Hamilton, soluciones completas, separación de variables, hamiltonianos conservados, coordenadas cíclicas, variables separables, teorema de Huygens y analogía óptica,
-3.2. Teoremas de integrabilidad: teorema de Liouville, teorema de Arnold, variables de acción-ángulo, movimiento condicionalmente periódico.
-
-4. Temas de especialización:
-4.1. Teoría cláscia de campos
-4.2. Perturbaciones
-4.3. Caos
-4.4. Dinámica de Fluidos
-
-
-
-# Bibliografía
-
-## Básica
-▪ F. R. Gantmájer, Mecánica Analítica, URSS, 2003.
-▪ H. Goldstein, C. Poole, J. Safko, Classical Mechanics, Third Edition, Addison Wesley, 2002.
-▪ J. V. José, E. J. Saletan, Classical Dynamics, Cambridge University Press, 1998.
-▪ L. Meirovitch, Methods of Analytical Dynamics, Dover Publications, 2010.
-▪ E. J. Saletan, A. H. Cromer, Theoretical Mechanics, Wiley, 1971.
-
-## Complementaria
-▪ V.I.Arnold,MathematicalMethodsofClassicalMechanics,SecondEdition,Springer-Verlag,1989. ▪ A. F. Fasano, S. Marmi, Analytical Mechanics, Oxford University Press, 2006.
-▪ A. J. Lichtenberg, M. A. Lieberman, Regular and Chaotic Dynamics, Second Edition, Springer- Verlag, 1992.
-▪ F. A. Scheck, Mechanics: From Newton’s Laws to Deterministic Chaos, Fourth Edition, Springer, 2005.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI4MzkzMF19
+eyJoaXN0b3J5IjpbMTI2Mzc5MTc5OF19
 -->
