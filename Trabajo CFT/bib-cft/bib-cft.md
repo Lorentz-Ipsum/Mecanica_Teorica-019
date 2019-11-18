@@ -1,4 +1,4 @@
-# Primera Caza
+# Primera Caza: Campos Clasicos
 
 En la primera caza de link encontré:
 
@@ -51,7 +51,7 @@ Wikimedia Commons has media related to _**[Phase changes](https://commons.wikime
 
 --- 
 
-# Segunda Caza
+# Segunda Caza: Yang Mills
 > Madrugada 18/11
 
 En mi primera búsqueda en google alternando palabras he encontrado:
@@ -62,5 +62,5 @@ En mi primera búsqueda en google alternando palabras he encontrado:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjYwODUyOF19
+eyJoaXN0b3J5IjpbNDMwNzk3MDQ4XX0=
 -->
