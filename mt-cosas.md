@@ -136,17 +136,17 @@ $i_\mathbf{v}\omega|_phi = \mathrm{d}\hat{H}|_\phi \Rightarrow
 
 
 #### Flujo hamiltoniano
-La función diferenciable <math>\hat{H}</math> a través de la ecuación {{eqnref|5}} un campo vectorial continuo sobre toda la variedad simpléctica. Las [[Curva integral de un campo vectorial|curvas integrales]] de este campo vectorial son las trayectorias de las partículas a lo largo del espacio fásico. Esas curvas definen una [[foliación]] unidimensional o flujo hamiltoniano sobre la variedad. De hecho para cada intervalo de tiempo ''s'' se puede definir una aplicación:
+La función diferenciable $\hat{H}$ a través de la ecuación {{eqnref|5}} un campo vectorial continuo sobre toda la variedad simpléctica. Las [[Curva integral de un campo vectorial|curvas integrales]] de este campo vectorial son las trayectorias de las partículas a lo largo del espacio fásico. Esas curvas definen una [[foliación]] unidimensional o flujo hamiltoniano sobre la variedad. De hecho para cada intervalo de tiempo ''s'' se puede definir una aplicación:
 {{ecuación|
-<math>U_s(p(t),q(t)) = (p(t+s),q(t+s))\;</math>
+$U_s(p(t),q(t)) = (p(t+s),q(t+s))\;$
 ||left}}
-De hecho la anterior aplicación es una [[transformación canónica]] o [[simplectomorfismo]]. El conjunto <math>\{U_s:\mathcal{M}\to\mathcal{M}| s\in\mathbb{R}\}</math> de todas las aplicaciones anteriores constituye un [[grupo uniparamétrico]] de simplectomorfismos. Si consideramos cualquier magnitud física definida como una función diferenciable sobre la variedad simpléctica, su variación a lo largo de una trayectoria, viene dada por la siguiente derivada temporal:
+De hecho la anterior aplicación es una [[transformación canónica]] o [[simplectomorfismo]]. El conjunto $\{U_s:\mathcal{M}\to\mathcal{M}| s\in\mathbb{R}\}$ de todas las aplicaciones anteriores constituye un [[grupo uniparamétrico]] de simplectomorfismos. Si consideramos cualquier magnitud física definida como una función diferenciable sobre la variedad simpléctica, su variación a lo largo de una trayectoria, viene dada por la siguiente derivada temporal:
 {{ecuación|
-<math>\frac{d}{dt} f=\{f,\hat{H}\} = -(i_{\tilde{\omega}(\mathrm{d}H)}\omega)(\mathrm{d}f)</math>
+$\frac{d}{dt} f=\{f,\hat{H}\} = -(i_{\tilde{\omega}(\mathrm{d}H)}\omega)(\mathrm{d}f)$
 ||left}}
 Tal como se demuestra más adelante. De hecho en mecánica estadística se usan [[distribución de probabilidad|distribuciones de probabilidad]] sobre el espacio fásico. Fijada una distribución ρ esta en general "evolucionará" con el tiempo según la ley:
 {{ecuación|
-<math>\frac{d\rho}{dt}  = - \{\rho , \hat{H}\}.</math>
+$\frac{d\rho}{dt}  = - \{\rho , \hat{H}\}.$
 |6|left}}
 Esta última expresión se llama [[Teorema de Liouville (mecánica hamiltoniana)#Ecuación de Liouville|ecuación de Liouville]], en particular una distribución tal que el corchete de Poisson con el hamiltoniano se anule se llama '''distribución estacionaria'''.
 
@@ -154,14 +154,14 @@ Cada función diferenciable G, sobre la [[variedad simpléctica]] genera una fam
 
 #### Álgebra de Poisson
 {{AP|Álgebra de Poisson}}
-A su vez el corchete de Poisson se expresa de modo muy simple en términos de la función inversa de <math>i_{(\cdot)}\omega</math> denotada mendiante <math>\tilde{\omega}</math>:
+A su vez el corchete de Poisson se expresa de modo muy simple en términos de la función inversa de $i_{(\cdot)}\omega$ denotada mendiante $\tilde{\omega}$:
 {{ecuación|
 
 $[F,G] = (i_{\tilde{\omega}(\mathrm{d}F)}\omega)(\mathrm{d}G)\;$
 
 Hay otra generalización que podemos hacer. En vez simplemente de mirar el [[álgebra asociativa|álgebra]] de funciones diferenciables sobre una [[variedad simpléctica]], la mecánica hamiltoniana se puede formular como un álgebra de Poisson [[número real|real]] [[unital]] [[Conmutatividad|comutativa]] general.
 
-En esta formulación alternativa un [[estado (análisis funcional)|estado]] es una [[funcional lineal]] [[Continuidad (matemática)|continua]] en el álgebra de Poisson <math>\mathcal{A}</math>, equipada de alguna [[espacio topológico|estructura topológica]] conveniente. Las álgebras de Poisson son importantes en el estudio de [[grupo cuántico|grupos cuánticos]]<ref>[http://arxiv.org/PS_cache/q-alg/pdf/9704/9704002v2.pdf introduction to Quantum groups (inglés)]</ref> usados en la [[teoría cuántica de campos]] conforme, algunos modelos de [[cuantización]] de [[espacio-tiempo]], etc.
+En esta formulación alternativa un [[estado (análisis funcional)|estado]] es una [[funcional lineal]] [[Continuidad (matemática)|continua]] en el álgebra de Poisson $\mathcal{A}$, equipada de alguna [[espacio topológico|estructura topológica]] conveniente. Las álgebras de Poisson son importantes en el estudio de [[grupo cuántico|grupos cuánticos]]<ref>[http://arxiv.org/PS_cache/q-alg/pdf/9704/9704002v2.pdf introduction to Quantum groups (inglés)]</ref> usados en la [[teoría cuántica de campos]] conforme, algunos modelos de [[cuantización]] de [[espacio-tiempo]], etc.
 
 
 ## Prueba 1
@@ -178,5 +178,5 @@ Simplectomorfismos, transformaciones canonoides, función generatriz y tipos de
 Teorema de Liouville, distribuciones estadísticas, invariante integral de Poincaré, espacio de fases extendido, invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxNTI4NjAzXX0=
+eyJoaXN0b3J5IjpbNTkxODg3NTcxLDU4MTUyODYwM119
 -->
