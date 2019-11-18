@@ -2,7 +2,9 @@
 Apuntes
 
 [Enlace a mt-cosas](./mt-cosas.md)
+
 Enlace a [Trabajo de CFT readme](Trabajo_CFT/cft-readme.md)
+
 Enlace a [Trabajo de CFT Bib](Trabajo_CFT/cft-bib.md)
 
 # Resultados del aprendizaje
@@ -275,5 +277,5 @@ Intervalo Publicitario
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcxODU5NjVdfQ==
+eyJoaXN0b3J5IjpbMjc3NzExMDcyLC0yMTM3MTg1OTY1XX0=
 -->
