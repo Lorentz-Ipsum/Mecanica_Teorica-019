@@ -1,6 +1,8 @@
 # Me_Teorica-2019
 Apuntes
 
+[Enlace a mt-cosas](./mt-cosas.md)
+Enlace a [Trabajo de CFT readme](Trabajo_CFT/README.md)
 
 # Resultados del aprendizaje
 
