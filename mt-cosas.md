@@ -141,9 +141,8 @@ La función diferenciable $\hat{H}$ a través de la ecuación {{eqnref|5}} un ca
 $U_s(p(t),q(t)) = (p(t+s),q(t+s))\;$
 ||left}}
 De hecho la anterior aplicación es una [[transformación canónica]] o [[simplectomorfismo]]. El conjunto $\{U_s:\mathcal{M}\to\mathcal{M}| s\in\mathbb{R}\}$ de todas las aplicaciones anteriores constituye un [[grupo uniparamétrico]] de simplectomorfismos. Si consideramos cualquier magnitud física definida como una función diferenciable sobre la variedad simpléctica, su variación a lo largo de una trayectoria, viene dada por la siguiente derivada temporal:
-{{ecuación|
+
 $\frac{d}{dt} f=\{f,\hat{H}\} = -(i_{\tilde{\omega}(\mathrm{d}H)}\omega)(\mathrm{d}f)$
-||left}}
 Tal como se demuestra más adelante. De hecho en mecánica estadística se usan [[distribución de probabilidad|distribuciones de probabilidad]] sobre el espacio fásico. Fijada una distribución ρ esta en general "evolucionará" con el tiempo según la ley:
 {{ecuación|
 $\frac{d\rho}{dt}  = - \{\rho , \hat{H}\}.$
