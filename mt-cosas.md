@@ -143,7 +143,7 @@ $U_s(p(t),q(t)) = (p(t+s),q(t+s))\;$
 
 De hecho la anterior aplicación es una [[transformación canónica]] o [[simplectomorfismo]]. El conjunto $\{U_s:\mathcal{M}\to\mathcal{M}| s\in\mathbb{R}\}$ de todas las aplicaciones anteriores constituye un [[grupo uniparamétrico]] de simplectomorfismos. Si consideramos cualquier magnitud física definida como una función diferenciable sobre la variedad simpléctica, su variación a lo largo de una trayectoria, viene dada por la siguiente derivada temporal:
 
-$\frac{d}{dt} f=\{f,\hat{H}\} = -(i_{\tilde{\omega}(\mathrm{d}H)}\omega)(\mathrm{d}f)$
+$$\frac{d}{dt} f=\{f,\hat{H}\} = -(i_{\tilde{\omega}(\mathrm{d}H)}\omega)(\mathrm{d}f)$$
 
 Tal como se demuestra más adelante. De hecho en mecánica estadística se usan [[distribución de probabilidad|distribuciones de probabilidad]] sobre el espacio fásico. Fijada una distribución ρ esta en general "evolucionará" con el tiempo según la ley:
 
@@ -179,6 +179,6 @@ Simplectomorfismos, transformaciones canonoides, función generatriz y tipos de
 Teorema de Liouville, distribuciones estadísticas, invariante integral de Poincaré, espacio de fases extendido, invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTYzMzgzNywtMzczMzU5MzYyLDU5MT
-g4NzU3MSw1ODE1Mjg2MDNdfQ==
+eyJoaXN0b3J5IjpbMTU1NDk3Nzc4NywxNjc5NjMzODM3LC0zNz
+MzNTkzNjIsNTkxODg3NTcxLDU4MTUyODYwM119
 -->
