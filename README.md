@@ -1,4 +1,4 @@
-# Me_Teorica-2019
+# Mecanica_Teorica-2019
 Apuntes
 
 [Enlace a mt-cosas](./mt-cosas.md)
