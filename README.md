@@ -1,6 +1,8 @@
 # Mecanica_Teorica-2019
 Apuntes
 
+[Página del repositorio](https://lorentz-ipsum.github.io/Mecanica_Teorica-2019/)
+
 [Enlace a mt-cosas](./mt-cosas.md)
 
 Enlace a [Trabajo de CFT readme](Trabajo_CFT/cft-readme.md)
@@ -277,5 +279,6 @@ Intervalo Publicitario
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NzExMDcyLC0yMTM3MTg1OTY1XX0=
+eyJoaXN0b3J5IjpbLTEzODUyMTM2MzYsMjc3NzExMDcyLC0yMT
+M3MTg1OTY1XX0=
 -->
