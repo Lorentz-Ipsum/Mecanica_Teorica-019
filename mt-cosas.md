@@ -101,6 +101,7 @@ movimiento condicionalmente periódico.
 
 ## Wikipedia
 ### Mecanica avanzada
+
 $\begin{matrix}
 T\mathcal{M} & \to & T^*\mathcal{M} \\
 \mathbf{v} & \to & i_\mathbf{v}\omega=\omega(\mathbf{v},\cdot)
@@ -143,15 +144,17 @@ $U_s(p(t),q(t)) = (p(t+s),q(t+s))\;$
 De hecho la anterior aplicación es una [[transformación canónica]] o [[simplectomorfismo]]. El conjunto $\{U_s:\mathcal{M}\to\mathcal{M}| s\in\mathbb{R}\}$ de todas las aplicaciones anteriores constituye un [[grupo uniparamétrico]] de simplectomorfismos. Si consideramos cualquier magnitud física definida como una función diferenciable sobre la variedad simpléctica, su variación a lo largo de una trayectoria, viene dada por la siguiente derivada temporal:
 
 $\frac{d}{dt} f=\{f,\hat{H}\} = -(i_{\tilde{\omega}(\mathrm{d}H)}\omega)(\mathrm{d}f)$
+
 Tal como se demuestra más adelante. De hecho en mecánica estadística se usan [[distribución de probabilidad|distribuciones de probabilidad]] sobre el espacio fásico. Fijada una distribución ρ esta en general "evolucionará" con el tiempo según la ley:
 
 $\frac{d\rho}{dt}  = - \{\rho , \hat{H}\}.$
+
 Esta última expresión se llama [[Teorema de Liouville (mecánica hamiltoniana)#Ecuación de Liouville|ecuación de Liouville]], en particular una distribución tal que el corchete de Poisson con el hamiltoniano se anule se llama '''distribución estacionaria'''.
 
 Cada función diferenciable G, sobre la [[variedad simpléctica]] genera una familia uniparamétrica de [[simplectomorfismo]]s y si {G, H}=0, entonces G se conserva y los simplectomorfismos son transformaciones de simetría.
 
 #### Álgebra de Poisson
-{{AP|Álgebra de Poisson}}
+
 A su vez el corchete de Poisson se expresa de modo muy simple en términos de la función inversa de $i_{(\cdot)}\omega$ denotada mendiante $\tilde{\omega}$:
 
 
@@ -176,6 +179,6 @@ Simplectomorfismos, transformaciones canonoides, función generatriz y tipos de
 Teorema de Liouville, distribuciones estadísticas, invariante integral de Poincaré, espacio de fases extendido, invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzM1OTM2Miw1OTE4ODc1NzEsNTgxNT
-I4NjAzXX0=
+eyJoaXN0b3J5IjpbMTY3OTYzMzgzNywtMzczMzU5MzYyLDU5MT
+g4NzU3MSw1ODE1Mjg2MDNdfQ==
 -->
