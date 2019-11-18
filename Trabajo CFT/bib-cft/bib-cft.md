@@ -1,6 +1,6 @@
 
 # Segunda Caza
-Madrugada 18/11
+> Madrugada 18/11
 
 En mi primera búsqueda en google alternando palabras he encontrado:
 
@@ -10,5 +10,5 @@ En mi primera búsqueda en google alternando palabras he encontrado:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MDIwOTQxXX0=
+eyJoaXN0b3J5IjpbLTEwOTc2MzY0MzNdfQ==
 -->
