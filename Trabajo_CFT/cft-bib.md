@@ -4,7 +4,7 @@ En la primera caza de link encontré:
 
 [Yang Mills](https://es.wikipedia.org/wiki/Campo_de_Yang-Mills)
 
-(https://es.wikipedia.org/wiki/Teor%C3%ADa_de_campos)
+[Teoria de Campos](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_campos)
 
 https://es.wikipedia.org/wiki/Transici%C3%B3n_de_fase
 
@@ -62,5 +62,5 @@ En mi primera búsqueda en google alternando palabras he encontrado:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUzMDkxMzAsNDMwNzk3MDQ4XX0=
+eyJoaXN0b3J5IjpbMTIxMjY4MDUxNiw0MzA3OTcwNDhdfQ==
 -->
