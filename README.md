@@ -2,7 +2,8 @@
 Apuntes
 
 [Enlace a mt-cosas](./mt-cosas.md)
-Enlace a [Trabajo de CFT readme](Trabajo_CFT/README.md)
+Enlace a [Trabajo de CFT readme](Trabajo_CFT/cft-readme.md)
+Enlace a [Trabajo de CFT Bib](Trabajo_CFT/cft-bib.md)
 
 # Resultados del aprendizaje
 
