@@ -9,6 +9,8 @@ Enlace a [Trabajo de CFT readme](Trabajo_CFT/cft-readme.md)
 
 Enlace a [Trabajo de CFT Bib](Trabajo_CFT/cft-bib.md)
 
+Enlace a [Trabajo de Ecuaciones T2](Tema2/t2-equs.md)
+
 # Resultados del aprendizaje
 
 Profundizar en los principios y las técnicas fundamentales del formalismo hamiltoniano de los sistemas dinámicos.
@@ -279,6 +281,6 @@ Intervalo Publicitario
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODUyMTM2MzYsMjc3NzExMDcyLC0yMT
-M3MTg1OTY1XX0=
+eyJoaXN0b3J5IjpbMTEzNzU2NTc5NSwyNzc3MTEwNzIsLTIxMz
+cxODU5NjVdfQ==
 -->
