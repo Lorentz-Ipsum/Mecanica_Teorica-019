@@ -10,9 +10,9 @@ $$
 
 $$
 \begin{aligned}
-	\frac{\partial H}{\partial p^1} = U^1 = \frac{d q^1}{d s} =  - b q_{1} + \frac{p_{1}}{m} \\
-	\frac{\partial H}{\partial p^2} = U^2 = \frac{d q^2}{d s}= \frac{p_{2}}{m} \\
-	\frac{\partial H}{\partial p^3} = U^3 =\frac{d q^3}{d s} = \frac{p_{3}{m} \\
+	\frac{\partial H}{\partial p^1} = U^1 = \frac{d q^1}{d s} &=  - b q_{1} + \frac{p_{1}}{m} \\
+	\frac{\partial H}{\partial p^2} = U^2 = \frac{d q^2}{d s} &= \frac{p_{2}}{m} \\
+	\frac{\partial H}{\partial p^3} = U^3 =\frac{d q^3}{d s} &= \frac{p_{3}}{m} \\
 \end{aligned}
 $$
 
@@ -25,10 +25,13 @@ $$
 $$
 
 $$
-X_H = \left( - b q_{1}  + \frac{p_{1}}{m} \right) \frac{\partial}{\partial p^1} +   \frac{p_{2}}{m} \frac{\partial}{\partial q^2}  +  \frac{p_{3}}{m} \frac{\partial}{\partial q^3} + \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2} 
+X_H = \left( - b q_{1}  + \frac{p_{1}}{m} \right) \frac{\partial}{\partial q^1} +   \frac{p_{2}}{m} \frac{\partial}{\partial q^2}  +  \frac{p_{3}}{m} \frac{\partial}{\partial q^3} + \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2} 
 $$
-# Flujos hamiltonianos.
 
+# Curvas Integrales
+
+
+# Flujos hamiltonianos.
 
 $$
 i_{X_F} \Omega = - df
@@ -91,6 +94,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjAyODU0MiwtMTQ2MDMyNzg3MCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NTA1ODI5NzcsLTE0NjAzMjc4NzAsNz
+MwOTk4MTE2XX0=
 -->
