@@ -216,15 +216,6 @@ movimiento condicionalmente periódico.
 
 ## To Do
 
-### Importante
-
-- [ ] Enviar mail para cambio de trabajo: Caos
-	- [ ] O buscar otros temas posibles: Catastrofes, bifurcaciones, complejidad, 3 cuerpos
-	- [ ] O mirar si el tema que me tocó (teoria clásica de campos) vale la pena para hacerlo.
-- [ ]
-
-### Extra
-
 - [ ] Buscar Hamiltonianos por ahi a ver si llego a la lista de 13 que quiere ponernos.
 - [ ] Repasar jacobianos
 - [ ] Repasar rango de Matriz
@@ -233,6 +224,6 @@ movimiento condicionalmente periódico.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjY1MTExMywxMTM3NTY1Nzk1LDI3Nz
+eyJoaXN0b3J5IjpbLTk1NTAxOTA3OCwxMTM3NTY1Nzk1LDI3Nz
 cxMTA3MiwtMjEzNzE4NTk2NV19
 -->
