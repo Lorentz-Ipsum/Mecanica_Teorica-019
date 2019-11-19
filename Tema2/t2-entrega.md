@@ -10,10 +10,18 @@ $$
 
 $$
 \begin{aligned}
-\frac{\partial H}{\partial p^1} = U^1 = - b q_{1} + \frac{p_{1}}{m} \\
-\frac{\partial H}{\partial p^2} = U^2 = p_{2} / {m} \\
-\frac{\partial H}{\partial p^3} = U^3 = p_{3} / {m} \\
-  \end{aligned}
+	\frac{\partial H}{\partial p^1} = U^1 = - b q_{1} + \frac{p_{1}}{m} \\
+	\frac{\partial H}{\partial p^2} = U^2 = p_{2} / {m} \\
+	\frac{\partial H}{\partial p^3} = U^3 = p_{3} / {m} \\
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+	\frac{\partial H}{\partial q^1} &=         - \frac{aq_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}} + m b^2 q_1 + \frac{1}{2} m b v_1\\
+	\frac{ \partial H}{\partial q^2} &=         - \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}} + m b^2 q_2 \\
+	\frac{ \partial H}{\partial q^3} &= m b^2 q_3\\
+\end{aligned}
 $$
 
 # Flujos hamiltonianos.
@@ -80,6 +88,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTcwMTc5MCwtMTQ2MDMyNzg3MCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjE5NDA4MjMsLTE0NjAzMjc4NzAsNzMwOT
+k4MTE2XX0=
 -->
