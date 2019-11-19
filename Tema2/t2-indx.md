@@ -45,8 +45,11 @@ Funcion dinamica
 Transformacion Legendre
 Coordenadas cíclicas
 Routhiano
-
 Modus operandi de Hamilton
+#### 1. Coordenadas unificadas
+Ecuaciones de Hamilton unificadas
+#### 2. Principio variacional asociado al formalismo de hamilton
+
 
 ## 2.2. Geometría simpléctica: 
 
@@ -60,9 +63,7 @@ Derivada de Lie
 #### d. Vector dinámico
 Teorema de Noether
 
-### 1. Coordenadas unificadas
-Ecuaciones de Hamilton unificadas
-### 2. Principio variacional asociado al formalismo 
+### 1. 
 
 ## 2.3. Transformaciones canónicas:
 Simplectomorfismos,
@@ -77,5 +78,5 @@ espacio de fases extendido,
 invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxMDYxNzUyXX0=
+eyJoaXN0b3J5IjpbLTQyOTQ2NDY3M119
 -->
