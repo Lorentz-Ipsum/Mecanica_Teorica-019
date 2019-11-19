@@ -10,9 +10,9 @@ $$
 
 $$
 \begin{aligned}
-	\frac{\partial H}{\partial p^1} = U^1 =\frac{\partial d }{d s} =  - b q_{1} + \frac{p_{1}}{m} \\
-	\frac{\partial H}{\partial p^2} = U^2 = p_{2} / {m} \\
-	\frac{\partial H}{\partial p^3} = U^3 = p_{3} / {m} \\
+	\frac{\partial H}{\partial p^1} = U^1 = \frac{d q^1}{d s} =  - b q_{1} + \frac{p_{1}}{m} \\
+	\frac{\partial H}{\partial p^2} = U^2 = \frac{d q^2}{d s}= \frac{p_{2}}{m} \\
+	\frac{\partial H}{\partial p^3} = U^3 =\frac{d q^3}{d s} = \frac{p_{3}{m} \\
 \end{aligned}
 $$
 
@@ -91,6 +91,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTg0MDA4NSwtMTQ2MDMyNzg3MCw3Mz
+eyJoaXN0b3J5IjpbMjExNjAyODU0MiwtMTQ2MDMyNzg3MCw3Mz
 A5OTgxMTZdfQ==
 -->
