@@ -4,6 +4,7 @@ Apuntes de Mecánica Teórica. Formulario, problemas, libros útiles, etc.
 ## Links
 
 [Web donde se renderiza el repositorio](https://lorentz-ipsum.github.io/Mecanica_Teorica-2019/)
+
 [GitHub del repositorio](https://github.com/Lorentz-Ipsum/Mecanica_Teorica-2019)
 
 ---
@@ -17,6 +18,8 @@ Enlace a [Trabajo de CFT readme](Trabajo_CFT/cft-readme.md)
 Enlace a [Trabajo de CFT Bib](Trabajo_CFT/cft-bib.md)
 
 Enlace a [Trabajo de Ecuaciones T2](Tema2/t2-equs.md)
+
+---
 
 # Resultados del aprendizaje
 
@@ -224,6 +227,6 @@ movimiento condicionalmente periódico.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTAxOTA3OCwxMTM3NTY1Nzk1LDI3Nz
-cxMTA3MiwtMjEzNzE4NTk2NV19
+eyJoaXN0b3J5IjpbLTEyMTM4MzkzMjUsMTEzNzU2NTc5NSwyNz
+c3MTEwNzIsLTIxMzcxODU5NjVdfQ==
 -->
