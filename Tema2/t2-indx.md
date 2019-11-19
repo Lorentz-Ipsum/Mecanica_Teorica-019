@@ -36,9 +36,9 @@ invariante integral de Poincaré-Cartan y cantidades conservadas.
 ---
 
 
-## 2. Mecánica hamiltoniana
+# 2. Mecánica hamiltoniana
 
-### 2.1. Sistemas hamiltonianos:
+## 2.1. Sistemas hamiltonianos:
 
 Espacio de configuración TQ
 Funcion dinamica
@@ -49,14 +49,13 @@ Routhiano
 Modus operandi de Hamilton
 
 ### 2.2. Geometría simpléctica: Conceptos geométricos
-Forma simpléctica,
-ecuaciones de Hamilton,
-flujos hamiltonianos,
-flujo de un campo vectorial,
-campos vectoriales hamiltonianos,
-teorema de Noether,
-variedades simplécticas,
-teorema de Darboux y reducción por simetría.
+#### a. Campo Vectorial
+#### b. Formas diferenciales
+Derivada exterior de formas
+Tensor de Leibniz antisimétrico
+#### c. Transformación de coordenadas
+Derivada de Lie
+
 
 ### 2.3. Transformaciones canónicas:
 Simplectomorfismos,
@@ -71,5 +70,5 @@ espacio de fases extendido,
 invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwNTU2NTg4XX0=
+eyJoaXN0b3J5IjpbLTIxMDI5OTA2MDVdfQ==
 -->
