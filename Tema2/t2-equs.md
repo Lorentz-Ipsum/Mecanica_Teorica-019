@@ -1,6 +1,6 @@
 
 
-# 
+# Sistemas Hamiltonianos
  
 ### Coordenadas unificadas
 
@@ -67,10 +67,81 @@ $$
 \phi_s^X = e^{s\mathcal{L}_X}
 $$
 
+# Derivada de Lie
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
+
+$$
+
+$$
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzg1MDE0NywxNTI3OTU2MTA5LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE2NzQ2NjQ2NjIsMTUyNzk1NjEwOSw3Mz
+A5OTgxMTZdfQ==
 -->
