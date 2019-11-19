@@ -105,19 +105,20 @@ $$
 
 
 $$
-i_x\sigma = \sigma_{\alpha\beta} x^\alpha d\xi^\beta
+\sigma = \sigma_{\alpha} d\xi^\alpha
 $$
 
 
 $$
-i_x\sigma = \sigma_{\alpha\beta} x^\alpha d\xi^\beta
+i_x\sigma = (\sigma, x) = \sigma(x)= \sigma_{\alpha} x^\alpha
 $$
 
 
 $$
-
+df = \partial_\alpha f d\xi^\alpha
 $$
 
+2-Forma
 
 $$
 i_x\sigma = \sigma_{\alpha\beta} x^\alpha d\xi^\beta
@@ -143,6 +144,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3NTY1ODgsMTUyNzk1NjEwOSw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbOTgwODU3Mzc3LDE1Mjc5NTYxMDksNzMwOT
+k4MTE2XX0=
 -->
