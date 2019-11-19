@@ -97,13 +97,24 @@ función generatriz y tipos de transformaciones canónicas.
 
 ---
 
+### 1. Transformación canónica
+Transformación canonoide
+### 2. Caracterización de las transformaciones canónicas
+1. a
+2. b
+3. c
+4. d
+5. Funci
 ## 2.4. Invariantes:
-Teorema de Liouville,
+> Teorema de Liouville,
 distribuciones estadísticas,
 invariante integral de Poincaré,
 espacio de fases extendido,
 invariante integral de Poincaré-Cartan y cantidades conservadas.
 
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTY1ODMxXX0=
+eyJoaXN0b3J5IjpbLTEzMDcxMTQ2NjddfQ==
 -->
