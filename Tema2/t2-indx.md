@@ -40,6 +40,7 @@ invariante integral de Poincaré-Cartan y cantidades conservadas.
 # 2. Mecánica hamiltoniana
 
 ## 2.1. Sistemas hamiltonianos:
+
 > Transformación de Legendre,
 ecuaciones de Hamilton,
 espacio de fases,
@@ -53,12 +54,15 @@ Transformacion Legendre
 Coordenadas cíclicas
 Routhiano
 Modus operandi de Hamilton
+
 #### 1. Coordenadas unificadas
+
 Ecuaciones de Hamilton unificadas
+
 #### 2. Principio variacional asociado al formalismo de hamilton
 
-
 ## 2.2. Geometría simpléctica: 
+
 >Forma simpléctica,
 ecuaciones de Hamilton,
 flujos hamiltonianos,
@@ -71,10 +75,12 @@ teorema de Darboux y reducción por simetría.
 ---
 
 ### 0. Conceptos geométricos
-#### a. Campo Vectorial
-#### b. Formas diferenciales
-Derivada exterior de formas
 
+#### a. Campo Vectorial
+
+#### b. Formas diferenciales
+
+Derivada exterior de formas
 Tensor de Leibniz antisimétrico
 
 #### c. Transformación de coordenadas
@@ -141,7 +147,7 @@ invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 ---
 
-
+### 1. Te
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTM3Mzk5N119
+eyJoaXN0b3J5IjpbLTk2Mjk3MTg2Ml19
 -->
