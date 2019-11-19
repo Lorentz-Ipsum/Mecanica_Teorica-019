@@ -8,6 +8,8 @@ $$
 H(\xi^j) = \frac{1}{2m} \xi^{i+3} \xi_{i+3} + \frac{a}{\sqrt{(\xi^1)^2 + (\xi^2)^2}} - b \xi^1 \xi_4
 $$
 
+
+
 # Flujos hamiltonianos.
 
 
@@ -72,5 +74,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxMjkwOTg1MCwtMTQ2MDMyNzg3MCw3Mz
+A5OTgxMTZdfQ==
 -->
