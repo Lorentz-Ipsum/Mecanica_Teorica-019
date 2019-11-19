@@ -1,3 +1,6 @@
+# Índice extendido
+
+ïndice ampliado con lo dado en clase, y de los libros
 
 ---
 
@@ -81,6 +84,8 @@ Construcción de coordenadas canónicas
 
 ## 2.3. Transformaciones canónicas:
 
+De la guía docente:
+
 > Simplectomorfismos,
 transformaciones canonoides,
 función generatriz y tipos de transformaciones canónicas.
@@ -112,6 +117,8 @@ Hamiltoniano transformado
 
 ## 2.4. Invariantes:
 
+De la guía docente:
+
 > Teorema de Liouville,
 distribuciones estadísticas,
 invariante integral de Poincaré,
@@ -130,5 +137,5 @@ invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 ### 5. Invariante integral de Poincaré-Cartán
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjEyNzY2MTldfQ==
+eyJoaXN0b3J5IjpbLTExODY4MDMyMzRdfQ==
 -->
