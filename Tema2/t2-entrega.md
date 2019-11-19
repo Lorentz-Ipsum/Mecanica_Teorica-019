@@ -25,7 +25,7 @@ $$
 $$
 
 $$
-X_H = - b q_{1} \frac{\partial}{\partial p^1}  + \frac{p_{1}}{m} +  p_{2} / {m} + \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}} - bp_1 ) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}} 
+X_H = - b q_{1} \frac{\partial}{\partial p^1}  + \frac{p_{1}}{m} +  p_{2} / {m} \frac{\partial}{\partial q^2}   + ( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 ) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2} 
 $$
 # Flujos hamiltonianos.
 
@@ -91,6 +91,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3NTYzMDAzLC0xNDYwMzI3ODcwLDczMD
+eyJoaXN0b3J5IjpbNzMxNjM3NTgyLC0xNDYwMzI3ODcwLDczMD
 k5ODExNl19
 -->
