@@ -74,23 +74,34 @@ teorema de Darboux y reducción por simetría.
 #### a. Campo Vectorial
 #### b. Formas diferenciales
 Derivada exterior de formas
+
 Tensor de Leibniz antisimétrico
+
 #### c. Transformación de coordenadas
+
 Derivada de Lie
+
 #### d. Vector dinámico
+
 Teorema de Noether
 
 ### 1. Matriz Omega
+
 Corchetes de Poisson
+
 ### 2. Flujo de un campo vectorial
+
 Campo vectorial hamiltoniano
 Teorema de Noether hamiltoniano
+
 ### 3. Variedad simplectica
+
 Álgebra de Poisson
 Teorema de Darboux
 Construcción de coordenadas canónicas
 
 ## 2.3. Transformaciones canónicas:
+
 > Simplectomorfismos,
 transformaciones canonoides,
 función generatriz y tipos de transformaciones canónicas.
@@ -98,14 +109,30 @@ función generatriz y tipos de transformaciones canónicas.
 ---
 
 ### 1. Transformación canónica
+
 Transformación canonoide
+
 ### 2. Caracterización de las transformaciones canónicas
+
 1. a
 2. b
 3. c
 4. d
-5. Funci
+5. Función generatriz
+
+Hamiltoniano transformado
+
+### 3. Funciones generatrices
+
+1. Tipo I
+2. Tipo II
+3. Tipo III
+4. Tipo IV
+
+### 4. Transformaciones canonoides
+
 ## 2.4. Invariantes:
+
 > Teorema de Liouville,
 distribuciones estadísticas,
 invariante integral de Poincaré,
@@ -116,5 +143,5 @@ invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDcxMTQ2NjddfQ==
+eyJoaXN0b3J5IjpbLTg0OTM3Mzk5N119
 -->
