@@ -1,10 +1,14 @@
 
+
+# 
+ 
+### Coordenadas unificadas
+
 $$
 H(\xi^j) = \frac{1}{2m} \xi^{i+3} \xi_{i+3} + \frac{a}{\sqrt{(\xi^1)^2 + (\xi^2)^2}} - b \xi^1 \xi_4
 $$
 
-
-\subsection{Flujos hamiltonianos.}
+# Flujos hamiltonianos.
 
 
 $$
@@ -24,11 +28,13 @@ $$
 $$
 
 Condición:
+
 $$
 d i_\chi \Omega = 0
 $$
 
 Flujo generatriz:
+
 $$
 \phi^{\chi_f} = \phi^f
 $$
@@ -46,7 +52,7 @@ $$
 $$
 
 
-\subsubsection{Otra forma}
+### Otra forma
 
 $$
 i_{X_F} \omega = dF
@@ -65,5 +71,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzk1NjEwOSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTYzMzg1MDE0NywxNTI3OTU2MTA5LDczMD
+k5ODExNl19
 -->
