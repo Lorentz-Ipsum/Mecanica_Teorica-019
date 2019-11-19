@@ -13,11 +13,15 @@ Apuntes de Mecánica Teórica. Formulario, problemas, libros útiles, etc.
 
 [Enlace a mt-cosas](./mt-cosas.md)
 
-Enlace a [Trabajo de CFT readme](Trabajo_CFT/cft-readme.md)
+---
 
-Enlace a [Trabajo de CFT Bib](Trabajo_CFT/cft-bib.md)
+Trabajo CFT / [Trabajo de CFT readme](Trabajo_CFT/cft-readme.md)
 
-Enlace a [Trabajo de Ecuaciones T2](Tema2/t2-equs.md)
+Trabajo CFT / [Trabajo de CFT Bib](Trabajo_CFT/cft-bib.md)
+
+---
+
+Tema 2 /  [Trabajo de Ecuaciones T2](Tema2/t2-equs.md)
 
 ---
 
@@ -227,6 +231,6 @@ movimiento condicionalmente periódico.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM4MzkzMjUsMTEzNzU2NTc5NSwyNz
-c3MTEwNzIsLTIxMzcxODU5NjVdfQ==
+eyJoaXN0b3J5IjpbNzk4NzAwNTAwLC0xMjEzODM5MzI1LDExMz
+c1NjU3OTUsMjc3NzExMDcyLC0yMTM3MTg1OTY1XX0=
 -->
