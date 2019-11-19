@@ -1,7 +1,12 @@
 # Mecanica_Teorica-2019
 Apuntes
 
-[Página del repositorio](https://lorentz-ipsum.github.io/Mecanica_Teorica-2019/)
+## Links
+[Web donde se renderiza el repositorio](https://lorentz-ipsum.github.io/Mecanica_Teorica-2019/)
+[GitHub del repositorio](https://github.com/Lorentz-Ipsum/Mecanica_Teorica-2019)
+
+---
+
 
 [Enlace a mt-cosas](./mt-cosas.md)
 
@@ -281,6 +286,6 @@ Intervalo Publicitario
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzU2NTc5NSwyNzc3MTEwNzIsLTIxMz
-cxODU5NjVdfQ==
+eyJoaXN0b3J5IjpbLTI1MjUxMzMwNSwxMTM3NTY1Nzk1LDI3Nz
+cxMTA3MiwtMjEzNzE4NTk2NV19
 -->
