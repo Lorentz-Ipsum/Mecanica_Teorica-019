@@ -10,7 +10,7 @@ $$
 
 $$
 \begin{aligned}
-	\frac{\partial H}{\partial p^1} = U^1 = - b q_{1} + \frac{p_{1}}{m} \\
+	\frac{\partial H}{\partial p^1} = U^1 =\frac{\partial d }{d s} =  - b q_{1} + \frac{p_{1}}{m} \\
 	\frac{\partial H}{\partial p^2} = U^2 = p_{2} / {m} \\
 	\frac{\partial H}{\partial p^3} = U^3 = p_{3} / {m} \\
 \end{aligned}
@@ -25,7 +25,7 @@ $$
 $$
 
 $$
-X_H = ( - b q_{1}  + \frac{p_{1}}{m} ) \frac{\partial}{\partial p^1} +   \frac{p_{2}}{m} \frac{\partial}{\partial q^2}  +  \frac{p_{3}}{m} \frac{\partial}{\partial q^3} + ( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 ) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2} 
+X_H = \left( - b q_{1}  + \frac{p_{1}}{m} \right) \frac{\partial}{\partial p^1} +   \frac{p_{2}}{m} \frac{\partial}{\partial q^2}  +  \frac{p_{3}}{m} \frac{\partial}{\partial q^3} + \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2} 
 $$
 # Flujos hamiltonianos.
 
@@ -91,6 +91,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNzIzNjgwLC0xNDYwMzI3ODcwLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTI2MTg0MDA4NSwtMTQ2MDMyNzg3MCw3Mz
+A5OTgxMTZdfQ==
 -->
