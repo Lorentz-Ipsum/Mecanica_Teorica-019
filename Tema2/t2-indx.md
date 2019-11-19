@@ -63,8 +63,13 @@ Derivada de Lie
 #### d. Vector dinámico
 Teorema de Noether
 
-### 1. 
-
+### 1. Matriz Omega
+Corchetes de Poisson
+### 2. Flujo de un campo vectorial
+Campo vectorial hamiltoniano
+Teorema de Noether hamiltoniano
+### 3. Variedad simplectica
+Álgebra de Poi
 ## 2.3. Transformaciones canónicas:
 Simplectomorfismos,
 transformaciones canonoides,
@@ -78,5 +83,5 @@ espacio de fases extendido,
 invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTQ2NDY3M119
+eyJoaXN0b3J5IjpbMTM1MjAyMDA4NF19
 -->
