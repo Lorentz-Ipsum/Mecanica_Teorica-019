@@ -18,8 +18,8 @@ $$
 
 $$
 \begin{aligned}
-	\frac{\partial H}{\partial q^1} &=         - \frac{aq_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}} + m b^2 q_1 + \frac{1}{2} m b v_1\\
-	\frac{ \partial H}{\partial q^2} &=         - \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}} + m b^2 q_2 \\
+	\frac{\partial H}{\partial q^1} &=  \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}} - bp_1 \\
+	\frac{ \partial H}{\partial q^2} &= - \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}} + m b^2 q_2 \\
 	\frac{ \partial H}{\partial q^3} &= m b^2 q_3\\
 \end{aligned}
 $$
@@ -88,6 +88,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NDA4MjMsLTE0NjAzMjc4NzAsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTk2NjYyNDMwMSwtMTQ2MDMyNzg3MCw3Mz
+A5OTgxMTZdfQ==
 -->
