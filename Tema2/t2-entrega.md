@@ -8,7 +8,13 @@ $$
 H(\xi^j) = \frac{1}{2m} \xi^{i+3} \xi_{i+3} + \frac{a}{\sqrt{(\xi^1)^2 + (\xi^2)^2}} - b \xi^1 \xi_4
 $$
 
-
+$$
+\begin{aligned}
+v_1(p_i) &= \frac{\partial H}{\partial p^1} = - b q_{1} + \frac{p_{1}}{m} \\
+v_2(p_i) &= \frac{\partial H}{\partial p^2} = p_{2} / {m} \\
+v_3(p_i) &= \frac{\partial H}{\partial p^3} = p_{3} / {m} \\
+  \end{aligned}
+$$
 
 # Flujos hamiltonianos.
 
@@ -74,6 +80,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkwOTg1MCwtMTQ2MDMyNzg3MCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTIxODAwMTUxLC0xNDYwMzI3ODcwLDczMD
+k5ODExNl19
 -->
