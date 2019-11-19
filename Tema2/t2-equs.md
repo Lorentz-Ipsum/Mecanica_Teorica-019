@@ -130,18 +130,18 @@ $$
 
 
 $$
-
+x'^\alpha = \frac{d\xi'^\alpha} { d\xi^\beta} x^\beta 
 $$
 
 
 $$
-
+x'^\alpha = \frac{d\xi'^\alpha} { d\xi^\beta} x^\beta '^\alpha = \frac{d\xi^\alpha} { d\xi'^\beta} \sigma_\beta 
 $$
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ2NjQ2NjIsMTUyNzk1NjEwOSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzE3MTg4MzQ3LDE1Mjc5NTYxMDksNzMwOT
+k4MTE2XX0=
 -->
