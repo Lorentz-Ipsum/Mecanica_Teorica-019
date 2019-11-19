@@ -10,9 +10,9 @@ $$
 
 $$
 \begin{aligned}
-v_1(p_i) &= \frac{\partial H}{\partial p^1} = - b q_{1} + \frac{p_{1}}{m} \\
-v_2(p_i) &= \frac{\partial H}{\partial p^2} = p_{2} / {m} \\
-v_3(p_i) &= \frac{\partial H}{\partial p^3} = p_{3} / {m} \\
+\frac{\partial H}{\partial p^1} = U^1 = - b q_{1} + \frac{p_{1}}{m} \\
+\frac{\partial H}{\partial p^2} = U^2 = p_{2} / {m} \\
+\frac{\partial H}{\partial p^3} = U^3 = p_{3} / {m} \\
   \end{aligned}
 $$
 
@@ -80,6 +80,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxODAwMTUxLC0xNDYwMzI3ODcwLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTgwOTcwMTc5MCwtMTQ2MDMyNzg3MCw3Mz
+A5OTgxMTZdfQ==
 -->
