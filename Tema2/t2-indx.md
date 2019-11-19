@@ -1,35 +1,4 @@
 
-## 2. Mecánica hamiltoniana
-
-### 2.1. Sistemas hamiltonianos:
-
-Transformación de Legendre,
-ecuaciones de Hamilton,
-espacio de fases,
-corchetes de Poisson.
-
-### 2.2. Geometría simpléctica:
-Forma simpléctica,
-ecuaciones de Hamilton,
-flujos hamiltonianos,
-flujo de un campo vectorial,
-campos vectoriales hamiltonianos,
-teorema de Noether,
-variedades simplécticas,
-teorema de Darboux y reducción por simetría.
-
-### 2.3. Transformaciones canónicas:
-Simplectomorfismos,
-transformaciones canonoides,
-función generatriz y tipos de transformaciones canónicas.
-
-### 2.4. Invariantes:
-Teorema de Liouville,
-distribuciones estadísticas,
-invariante integral de Poincaré,
-espacio de fases extendido,
-invariante integral de Poincaré-Cartan y cantidades conservadas.
-
 ---
 
 > Separador
@@ -40,6 +9,8 @@ invariante integral de Poincaré-Cartan y cantidades conservadas.
 # 2. Mecánica hamiltoniana
 
 ## 2.1. Sistemas hamiltonianos:
+
+De la guía docente:
 
 > Transformación de Legendre,
 ecuaciones de Hamilton,
@@ -62,6 +33,8 @@ Ecuaciones de Hamilton unificadas
 #### 2. Principio variacional asociado al formalismo de hamilton
 
 ## 2.2. Geometría simpléctica: 
+
+De la guía docente:
 
 >Forma simpléctica,
 ecuaciones de Hamilton,
@@ -147,7 +120,15 @@ invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 ---
 
-### 1. Te
+### 1. Teorema de Liouville
+
+### 2. Estadística de probabilidades
+
+### 3. Invariante de Poincaré
+
+### 4. Espacio de fases extendido
+
+### 5. Invariante integral de Poincaré-Cartán
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mjk3MTg2Ml19
+eyJoaXN0b3J5IjpbLTEzNjEyNzY2MTldfQ==
 -->
