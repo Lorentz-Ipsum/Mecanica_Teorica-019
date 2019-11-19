@@ -105,7 +105,12 @@ $$
 
 
 $$
+i_x\sigma = \sigma_{\alpha\beta} x^\alpha d\xi^\beta
+$$
 
+
+$$
+i_x\sigma = \sigma_{\alpha\beta} x^\alpha d\xi^\beta
 $$
 
 
@@ -115,19 +120,15 @@ $$
 
 
 $$
-
+i_x\sigma = \sigma_{\alpha\beta} x^\alpha d\xi^\beta
 $$
 
 
 $$
-
+i_x\sigma = \sigma_{\alpha\beta} x^\alpha d\xi^\beta
 $$
 
-
-$$
-
-$$
-
+### Transformaciones
 
 $$
 x'^\alpha = \frac{d\xi'^\alpha} { d\xi^\beta} x^\beta 
@@ -135,13 +136,13 @@ $$
 
 
 $$
-x'^\alpha = \frac{d\xi'^\alpha} { d\xi^\beta} x^\beta '^\alpha = \frac{d\xi^\alpha} { d\xi'^\beta} \sigma_\beta 
+\sigma_\alpha = \frac{d\xi^\alpha} { d\xi'^\beta} \sigma_\beta 
 $$
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3MTg4MzQ3LDE1Mjc5NTYxMDksNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbNTE3NTY1ODgsMTUyNzk1NjEwOSw3MzA5OT
+gxMTZdfQ==
 -->
