@@ -48,7 +48,9 @@ Routhiano
 
 Modus operandi de Hamilton
 
-### 2.2. Geometría simpléctica: Conceptos geométricos
+## 2.2. Geometría simpléctica: 
+
+### 0. Conceptos geométricos
 #### a. Campo Vectorial
 #### b. Formas diferenciales
 Derivada exterior de formas
@@ -57,12 +59,12 @@ Tensor de Leibniz antisimétrico
 Derivada de Lie
 
 
-### 2.3. Transformaciones canónicas:
+## 2.3. Transformaciones canónicas:
 Simplectomorfismos,
 transformaciones canonoides,
 función generatriz y tipos de transformaciones canónicas.
 
-### 2.4. Invariantes:
+## 2.4. Invariantes:
 Teorema de Liouville,
 distribuciones estadísticas,
 invariante integral de Poincaré,
@@ -70,5 +72,5 @@ espacio de fases extendido,
 invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI5OTA2MDVdfQ==
+eyJoaXN0b3J5IjpbMTQ5MTA5ODY0OV19
 -->
