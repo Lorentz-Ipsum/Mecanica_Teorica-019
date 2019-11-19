@@ -99,21 +99,17 @@ $$
 $$
 
 
-$$
+# $X_f = \dot{\gamma} \partial_\alpha f$
 
-$$
-
-
+1-Forma
 
 $$
 \sigma = \sigma_{\alpha} d\xi^\alpha
 $$
 
-
 $$
 i_x\sigma = (\sigma, x) = \sigma(x)= \sigma_{\alpha} x^\alpha
 $$
-
 
 $$
 df = \partial_\alpha f d\xi^\alpha
@@ -126,7 +122,6 @@ $$
 d\xi^\beta
 $$
 
-
 $$
 i_x\sigma = \sigma_{\alpha\beta} x^\alpha d\xi^\beta
 $$
@@ -137,7 +132,6 @@ $$
 x'^\alpha = \frac{d\xi'^\alpha} { d\xi^\beta} x^\beta 
 $$
 
-
 $$
 \sigma_\alpha = \frac{d\xi^\alpha} { d\xi'^\beta} \sigma_\beta 
 $$
@@ -146,6 +140,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjcxMzEyNCwxNTI3OTU2MTA5LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTY0MzQ2ODU4LDE1Mjc5NTYxMDksNzMwOT
+k4MTE2XX0=
 -->
