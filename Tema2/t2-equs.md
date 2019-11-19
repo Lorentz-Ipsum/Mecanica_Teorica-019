@@ -104,6 +104,7 @@ $$
 $$
 
 
+
 $$
 \sigma = \sigma_{\alpha} d\xi^\alpha
 $$
@@ -121,7 +122,8 @@ $$
 2-Forma
 
 $$
-i_x\sigma = \sigma_{\alpha\beta} x^\alpha d\xi^\beta
+\sigma = \sigma_{\alpha\beta}d\xi^\alpha\wedge
+d\xi^\beta
 $$
 
 
@@ -144,6 +146,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwODU3Mzc3LDE1Mjc5NTYxMDksNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE0MjcxMzEyNCwxNTI3OTU2MTA5LDczMD
+k5ODExNl19
 -->
