@@ -89,66 +89,8 @@ Son 4 ejercicios:
 > 3. 24 Dic
 > 4. 24 Ene
 
-
 ---
->.
----
-
-
-## Dudas que surgen
-
-- El término de segundo orden en la forma derivada de las ecuaciones de EulerLagrange tiene algo que ver con el jacobiano.
-
----
->.
----
-
-
-## Problemas
-### Problemas propuestos
-
-- [ ] Probar que las Ecs de EulerLagrange son invariantes bajo transformaciones de coordenadas en el espacio de configuracion. Pista: Usar regla de la cadena.
-- [ ]
-
-### Problemas propios
-
-- [ ] Hacer la integral por partes que simplifica la variacion de la accion para obtener las ecs EulerLagrange.
-- [ ] Derivar forma completa de las ecuaciones de EulerLagrange.
-- [ ] Hacer el paso de simplificar la variacion de coordenadas generalizadas hasta llegar a $\delta \dot{q} '^\alpha = \delta \dot{q}^\alpha - \dot{q} ^\alpha \dot{ \delta t } $
-- [ ] Hacer la integral por partes que simplifica la variacion de la accion cuando vemos transformaciones temporales.
-- [ ] Hacer la integral por partes que simplifica la variacion de la accion cuando vemos transformaciones temporales (CASO GENERAL).
-
----
->.
----
-
-
-## To Do
-
-### Importante
-
-- [ ] Enviar mail para cambio de trabajo: Caos
-	- [ ] O buscar otros temas posibles: Catastrofes, bifurcaciones, complejidad, 3 cuerpos
-	- [ ] O mirar si el tema que me tocó (teoria clásica de campos) vale la pena para hacerlo.
-- [ ]
-
-### Extra
-
-- [ ] Buscar Hamiltonianos por ahi a ver si llego a la lista de 13 que quiere ponernos.
-- [ ] Repasar jacobianos
-- [ ] Repasar rango de Matriz
-- [ ] Repasar metodo multiplicadores de Lagrange
-- [ ]
-
-
----
->.
->.
->.
-> Intervalo Publicitario
->.
->.
->.
+> Intervalo Publicitario: Anuncio de crema de pies
 ---
 
 # Temario
@@ -247,19 +189,50 @@ movimiento condicionalmente periódico.
 
 
 
+
 ---
->
->
->
->
-Intervalo Publicitario
->
->
->
->
+> Anuncio de cereales
 ---
 
+
+## Dudas que surgen
+
+- El término de segundo orden en la forma derivada de las ecuaciones de EulerLagrange tiene algo que ver con el jacobiano.
+
+## Problemas
+### Problemas propuestos
+
+- [ ] Probar que las Ecs de EulerLagrange son invariantes bajo transformaciones de coordenadas en el espacio de configuracion. Pista: Usar regla de la cadena.
+- [ ]
+
+### Problemas propios
+
+- [ ] Hacer la integral por partes que simplifica la variacion de la accion para obtener las ecs EulerLagrange.
+- [ ] Derivar forma completa de las ecuaciones de EulerLagrange.
+- [ ] Hacer el paso de simplificar la variacion de coordenadas generalizadas hasta llegar a $\delta \dot{q} '^\alpha = \delta \dot{q}^\alpha - \dot{q} ^\alpha \dot{ \delta t } $
+- [ ] Hacer la integral por partes que simplifica la variacion de la accion cuando vemos transformaciones temporales.
+- [ ] Hacer la integral por partes que simplifica la variacion de la accion cuando vemos transformaciones temporales (CASO GENERAL).
+
+
+## To Do
+
+### Importante
+
+- [ ] Enviar mail para cambio de trabajo: Caos
+	- [ ] O buscar otros temas posibles: Catastrofes, bifurcaciones, complejidad, 3 cuerpos
+	- [ ] O mirar si el tema que me tocó (teoria clásica de campos) vale la pena para hacerlo.
+- [ ]
+
+### Extra
+
+- [ ] Buscar Hamiltonianos por ahi a ver si llego a la lista de 13 que quiere ponernos.
+- [ ] Repasar jacobianos
+- [ ] Repasar rango de Matriz
+- [ ] Repasar metodo multiplicadores de Lagrange
+- [ ]
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU5OTM4MzIsMTEzNzU2NTc5NSwyNz
-c3MTEwNzIsLTIxMzcxODU5NjVdfQ==
+eyJoaXN0b3J5IjpbLTQyMjY1MTExMywxMTM3NTY1Nzk1LDI3Nz
+cxMTA3MiwtMjEzNzE4NTk2NV19
 -->
