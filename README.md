@@ -47,13 +47,9 @@ Matemáticas de 1o y 2o del Grado en Físicas. Mecánica Clásica del Grado 
 
 
 ---
->.
->.
->.
+
 > Intervalo Publicitario
->.
->.
->.
+
 ---
 
 
@@ -264,6 +260,6 @@ Intervalo Publicitario
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MzUzNDA4LDExMzc1NjU3OTUsMjc3Nz
-ExMDcyLC0yMTM3MTg1OTY1XX0=
+eyJoaXN0b3J5IjpbLTE4OTU5OTM4MzIsMTEzNzU2NTc5NSwyNz
+c3MTEwNzIsLTIxMzcxODU5NjVdfQ==
 -->
