@@ -24,6 +24,16 @@ $$
 \end{aligned}
 $$
 
+$$
+X_H = - b q_{1} + \frac{p_{1}}{m} +  p_{2} / {m} + \frac{\partial H}{\partial p^3} = U^3 = p_{3} / {m}
+$$
+
+$$
+\begin{aligned}
+	\frac{\partial H}{\partial q^1} &=  \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}} - bp_1 \\
+	\frac{ \partial H}{\partial q^2} &= \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}} \\
+	\frac{ \partial H}{\partial q^3} &= 0
+	$$
 # Flujos hamiltonianos.
 
 
@@ -88,6 +98,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk2Njc1MiwtMTQ2MDMyNzg3MCw3Mz
+eyJoaXN0b3J5IjpbMTAyMjU5MTM5NywtMTQ2MDMyNzg3MCw3Mz
 A5OTgxMTZdfQ==
 -->
