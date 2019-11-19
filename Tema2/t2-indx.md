@@ -57,7 +57,12 @@ Derivada exterior de formas
 Tensor de Leibniz antisimétrico
 #### c. Transformación de coordenadas
 Derivada de Lie
+#### d. Vector dinámico
+Teorema de Noether
 
+### 1. Coordenadas unificadas
+Ecuaciones de Hamilton unificadas
+### 2. Principio variacional asociado al formalismo 
 
 ## 2.3. Transformaciones canónicas:
 Simplectomorfismos,
@@ -72,5 +77,5 @@ espacio de fases extendido,
 invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTA5ODY0OV19
+eyJoaXN0b3J5IjpbNjcxMDYxNzUyXX0=
 -->
