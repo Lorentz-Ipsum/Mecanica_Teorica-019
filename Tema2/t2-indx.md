@@ -2,6 +2,7 @@
 ## 2. Mecánica hamiltoniana
 
 ### 2.1. Sistemas hamiltonianos:
+
 Transformación de Legendre,
 ecuaciones de Hamilton,
 espacio de fases,
@@ -39,6 +40,12 @@ invariante integral de Poincaré-Cartan y cantidades conservadas.
 # 2. Mecánica hamiltoniana
 
 ## 2.1. Sistemas hamiltonianos:
+> Transformación de Legendre,
+ecuaciones de Hamilton,
+espacio de fases,
+corchetes de Poisson.
+
+---
 
 Espacio de configuración TQ
 Funcion dinamica
@@ -52,6 +59,16 @@ Ecuaciones de Hamilton unificadas
 
 
 ## 2.2. Geometría simpléctica: 
+>Forma simpléctica,
+ecuaciones de Hamilton,
+flujos hamiltonianos,
+flujo de un campo vectorial,
+campos vectoriales hamiltonianos,
+teorema de Noether,
+variedades simplécticas,
+teorema de Darboux y reducción por simetría.
+
+---
 
 ### 0. Conceptos geométricos
 #### a. Campo Vectorial
@@ -69,11 +86,16 @@ Corchetes de Poisson
 Campo vectorial hamiltoniano
 Teorema de Noether hamiltoniano
 ### 3. Variedad simplectica
-Álgebra de Poi
+Álgebra de Poisson
+Teorema de Darboux
+Construcción de coordenadas canónicas
+
 ## 2.3. Transformaciones canónicas:
-Simplectomorfismos,
+> Simplectomorfismos,
 transformaciones canonoides,
 función generatriz y tipos de transformaciones canónicas.
+
+---
 
 ## 2.4. Invariantes:
 Teorema de Liouville,
@@ -83,5 +105,5 @@ espacio de fases extendido,
 invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjAyMDA4NF19
+eyJoaXN0b3J5IjpbLTU1OTY1ODMxXX0=
 -->
