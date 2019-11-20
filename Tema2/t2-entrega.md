@@ -24,12 +24,6 @@ $$
 \end{aligned}
 $$
 
-### Corchetes de Poisson
-$$
-\begin{aligned}\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, f\right\} p_{\gamma} \\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \partial f / \partial x^{\gamma}+p_{\gamma} \partial f / \partial p_{\beta}\right] \end{aligned}
-$$
-
-
 $$
 \begin{aligned}
 	 \dot{p_1} &= \frac{ \partial H}{\partial q^1} =  \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}} - bp_1 \\
@@ -38,6 +32,13 @@ $$
 \end{aligned}
 $$
 
+
+### Corchetes de Poisson
+$$
+\begin{aligned}\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, f\right\} p_{\gamma} \\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \partial f / \partial x^{\gamma}+p_{\gamma} \partial f / \partial p_{\beta}\right] \end{aligned}
+$$
+
+# Geometria simpléctica
 
 ### Coordenadas unificadas
 
@@ -65,10 +66,10 @@ $$
 X_H = \left( - b q_{1}  + \frac{p_{1}}{m} \right) \frac{\partial}{\partial q^1} +   \frac{p_{2}}{m} \frac{\partial}{\partial q^2}  +  \frac{p_{3}}{m} \frac{\partial}{\partial q^3} + \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2} 
 $$
 
-# Curvas Integrales
+### Curvas Integrales
 
 
-# Flujos hamiltonianos.
+### Flujos hamiltonianos.
 
 $$
 i_{X_F} \Omega = - df
@@ -159,10 +160,14 @@ $$
 
 Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante y $\mathcal{L}_g$ una variedad de dimensión $2n-2$
 
-> Written with [StackEdit](https://stackedit.io/).
+# Transformaciones canónicas
+
+
+# Invariantes
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDQyODg0LC04Nzk4MTA2NDEsLTMwNT
+eyJoaXN0b3J5IjpbMTk3MzAwMTI1LC04Nzk4MTA2NDEsLTMwNT
 gwODUxMiwtMTk0MTkwNTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3
 OTIsLTE5NTA1ODI5NzcsLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX
 0=
