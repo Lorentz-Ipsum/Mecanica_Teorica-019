@@ -10,17 +10,17 @@ $$
 
 $$
 \begin{aligned}
-	\frac{d q^1}{d s}= \dot{q_i} &=  \frac{\partial H}{\partial p^1} = U^1 =  - b q_{1} + \frac{p_{1}}{m} \\
-	\frac{d q^2}{d s}= \dot{q_i} &= \frac{\partial H}{\partial p^2} = U^2 = \frac{p_{2}}{m} \\
-	\frac{d q^3}{d s}= \dot{q_i} &= \frac{\partial H}{\partial p^3} = U^3 = \frac{p_{3}}{m} \\
+	\frac{d q^1}{d s}= \dot{q_1} &=  \frac{\partial H}{\partial p^1} = U^1 =  - b q_{1} + \frac{p_{1}}{m} \\
+	\frac{d q^2}{d s}= \dot{q_2} &= \frac{\partial H}{\partial p^2} = U^2 = \frac{p_{2}}{m} \\
+	\frac{d q^3}{d s}= \dot{q_3} &= \frac{\partial H}{\partial p^3} = U^3 = \frac{p_{3}}{m} \\
 \end{aligned}
 $$
 
 $$
 \begin{aligned}
-	 \dot{p_i} &= \frac{ \partial H}{\partial q^1} =  \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}} - bp_1 \\
-	 \dot{p_i} &= \frac{ \partial H}{\partial q^2} = \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}} \\
-	 \dot{p_i} &= \frac{ \partial H}{\partial q^3} = 0\\
+	 \dot{p_1} &= \frac{ \partial H}{\partial q^1} =  \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}} - bp_1 \\
+	 \dot{p_2} &= \frac{ \partial H}{\partial q^2} = \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}} \\
+	 \dot{p_3} &= \frac{ \partial H}{\partial q^3} = 0\\
 \end{aligned}
 $$
 
@@ -94,6 +94,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDEzODIyLC0xOTUwNTgyOTc3LC0xND
-YwMzI3ODcwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTkyOTYxNjc5MiwtMTk1MDU4Mjk3NywtMT
+Q2MDMyNzg3MCw3MzA5OTgxMTZdfQ==
 -->
