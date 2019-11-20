@@ -149,13 +149,14 @@ $$
 2. Encontar $f$ tal que $\{f, g \} = 1$
 
 $$
-\Omega = dg \wedge df+ \Omega _{\mathcal{L}_g}
+\Omega = dg \wedge df+ \Omega | _{\mathcal{L}_g}
 $$
+
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1MDQzMzEwLC0xOTQxOTA1MzAzLDE2NT
-A4OTI5MjEsMTkyOTYxNjc5MiwtMTk1MDU4Mjk3NywtMTQ2MDMy
-Nzg3MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTMwNTgwODUxMiwtMTk0MTkwNTMwMywxNj
+UwODkyOTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5NzcsLTE0NjAz
+Mjc4NzAsNzMwOTk4MTE2XX0=
 -->
