@@ -107,8 +107,14 @@ $$
 \mathcal{L}_{\Delta}g = \frac{d}{dt} g =\partial_j f \dot{\xi}^j = \partial_j f \omega^{jk} \partial_k H = \{g,H\}
 $$
 
-Construir $\Delta
+Construir $\Delta_H$:
 
+$$
+\begin{aligned}
+	 \Delta_H \Omega &= -dH \\
+	 \Delta_H &= \omega^{jk} \partial_k H \partial_j
+\end{aligned}
+$$
 
 ### Otra forma
 
@@ -130,7 +136,7 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY1OTE2ODQsLTE5NDE5MDUzMDMsMT
-Y1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgyOTc3LC0xNDYw
-MzI3ODcwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA5OTQ2MTk4MiwtMTk0MTkwNTMwMywxNj
+UwODkyOTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5NzcsLTE0NjAz
+Mjc4NzAsNzMwOTk4MTE2XX0=
 -->
