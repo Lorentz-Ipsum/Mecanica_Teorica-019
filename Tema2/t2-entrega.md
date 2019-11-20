@@ -32,7 +32,7 @@ $$
 ### Coordenadas unificadas
 
 $$
-H(\xi^j) = \frac{1}{2m} \xi^{i+3} \xi_{i+3} + \frac{a}{\sqrt{(\xi^1)^2 + (\xi^2)^2}} - b \xi^1 \xi_4
+H(\xi^i) = \frac{1}{2m} \xi^{j} \xi_{j} + \frac{a}{\sqrt{(\xi^1)^2 + (\xi^2)^2}} - b \xi^1 \xi_4 \quad j = 4
 $$
 
 $$
@@ -121,7 +121,7 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE5MDUzMDMsMTY1MDg5MjkyMSwxOT
-I5NjE2NzkyLC0xOTUwNTgyOTc3LC0xNDYwMzI3ODcwLDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbMTU4NjEwNDU4NiwtMTk0MTkwNTMwMywxNj
+UwODkyOTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5NzcsLTE0NjAz
+Mjc4NzAsNzMwOTk4MTE2XX0=
 -->
