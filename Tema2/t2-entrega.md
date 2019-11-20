@@ -137,13 +137,21 @@ $$
 \phi_s^X = e^{s\mathcal{L}_X}
 $$
 
-## Teor
+## Teorema de Darboux
 
+Existe una carta local en la que:
+
+$$
+\Omega = dp_\alpha \wedge dq^\alpha = \frac{1}{2} \omega_{ij} d\xi ^i \wedge d\xi^j
+$$
+
+1. Elegir una variable dinámica $g$.
+2. 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzU5OTY0OSwtMTk0MTkwNTMwMywxNj
-UwODkyOTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5NzcsLTE0NjAz
-Mjc4NzAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzNjQxNjcyNDksLTE5NDE5MDUzMDMsMT
+Y1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgyOTc3LC0xNDYw
+MzI3ODcwLDczMDk5ODExNl19
 -->
