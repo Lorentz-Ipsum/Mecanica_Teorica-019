@@ -146,12 +146,16 @@ $$
 $$
 
 1. Elegir una variable dinámica $g$.
-2. 
+2. Encontar $f$ tal que $\{f, g \} = 1$
+
+$$
+\Omega = dg \wedge df+ \Omega _{\mathcal{L}_g}
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQxNjcyNDksLTE5NDE5MDUzMDMsMT
-Y1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgyOTc3LC0xNDYw
-MzI3ODcwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzU1MDQzMzEwLC0xOTQxOTA1MzAzLDE2NT
+A4OTI5MjEsMTkyOTYxNjc5MiwtMTk1MDU4Mjk3NywtMTQ2MDMy
+Nzg3MCw3MzA5OTgxMTZdfQ==
 -->
