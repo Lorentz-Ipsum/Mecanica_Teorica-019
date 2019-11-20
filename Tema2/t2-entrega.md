@@ -24,6 +24,11 @@ $$
 \end{aligned}
 $$
 
+### Corchetes de Poisson
+$$
+\begin{aligned}\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, f\right\} p_{\gamma} \\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \partial f / \partial x^{\gamma}+p_{\gamma} \partial f / \partial p_{\beta}\right] \end{aligned}
+$$
+
 
 $$
 \begin{aligned}
@@ -157,7 +162,8 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTgxMDY0MSwtMzA1ODA4NTEyLC0xOT
-QxOTA1MzAzLDE2NTA4OTI5MjEsMTkyOTYxNjc5MiwtMTk1MDU4
-Mjk3NywtMTQ2MDMyNzg3MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk2MDQyODg0LC04Nzk4MTA2NDEsLTMwNT
+gwODUxMiwtMTk0MTkwNTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3
+OTIsLTE5NTA1ODI5NzcsLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX
+0=
 -->
