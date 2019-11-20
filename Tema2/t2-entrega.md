@@ -152,11 +152,12 @@ $$
 \Omega = dg \wedge df+ \Omega | _{\mathcal{L}_g}
 $$
 
+Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante y $\mathcal{L}_g$ una variedad de dimensión $2n-2$
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTgwODUxMiwtMTk0MTkwNTMwMywxNj
-UwODkyOTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5NzcsLTE0NjAz
-Mjc4NzAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg3OTgxMDY0MSwtMzA1ODA4NTEyLC0xOT
+QxOTA1MzAzLDE2NTA4OTI5MjEsMTkyOTYxNjc5MiwtMTk1MDU4
+Mjk3NywtMTQ2MDMyNzg3MCw3MzA5OTgxMTZdfQ==
 -->
