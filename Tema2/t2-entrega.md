@@ -106,6 +106,8 @@ $$
 
 ### Curvas Integrales
 
+$H$ determina unívocamente a $\Delta$ a través de la 1-forma $dH$ y la ecuación $i_\Delta
+
 La derivada de Lie a lo largo del vector dinámico $\Delta$ da la evolución de g:
 
 $$
@@ -166,8 +168,8 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2OTQ2ODgzLC04Nzk4MTA2NDEsLTMwNT
-gwODUxMiwtMTk0MTkwNTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3
-OTIsLTE5NTA1ODI5NzcsLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbLTE1MjkwNjg2OTUsMzY2OTQ2ODgzLC04Nz
+k4MTA2NDEsLTMwNTgwODUxMiwtMTk0MTkwNTMwMywxNjUwODky
+OTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5NzcsLTE0NjAzMjc4Nz
+AsNzMwOTk4MTE2XX0=
 -->
