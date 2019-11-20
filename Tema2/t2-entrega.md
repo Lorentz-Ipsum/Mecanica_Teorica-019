@@ -107,13 +107,19 @@ $$
 \mathcal{L}_{\Delta}g = \frac{d}{dt} g =\partial_j f \dot{\xi}^j = \partial_j f \omega^{jk} \partial_k H = \{g,H\}
 $$
 
-Construir $\Delta_H$:
+1. Construir $\Delta_H$:
 
 $$
 \begin{aligned}
 	 \Delta_H \Omega &= -dH \\
 	 \Delta_H &= \omega^{jk} \partial_k H \partial_j
 \end{aligned}
+$$
+
+2. Encontrar curvas integrales $\gamma_H$:
+
+$$
+\dot{\gamma}_H =\Delta_H = \frac{d\gamma_H}{dt}
 $$
 
 ### Otra forma
@@ -131,12 +137,13 @@ $$
 \phi_s^X = e^{s\mathcal{L}_X}
 $$
 
+## Teor
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTQ2MTk4MiwtMTk0MTkwNTMwMywxNj
+eyJoaXN0b3J5IjpbLTQ4NzU5OTY0OSwtMTk0MTkwNTMwMywxNj
 UwODkyOTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5NzcsLTE0NjAz
 Mjc4NzAsNzMwOTk4MTE2XX0=
 -->
