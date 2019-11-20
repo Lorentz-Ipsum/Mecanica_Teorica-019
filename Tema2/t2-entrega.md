@@ -11,6 +11,11 @@ $$
 
 # Sistemas Hamiltonianos
  
+ 
+$$
+\dot{p}_\alpha = - \frac{\partial H}{\partial q^\alpha} \quad \quad  \dot{q}_\alpha = \frac{\partial H}{\partial p^\alpha}
+$$
+
 $$
 \begin{aligned}
 	\frac{d q^1}{d s}= \dot{q_1} &=  \frac{\partial H}{\partial p^1} = U^1 =  - b q_{1} + \frac{p_{1}}{m} \\
@@ -32,7 +37,7 @@ $$
 ### Coordenadas unificadas
 
 $$
-H(\xi^i) = \frac{1}{2m} \xi^{j} \xi_{j} + \frac{a}{\sqrt{(\xi^1)^2 + (\xi^2)^2}} - b \xi^1 \xi_4 \quad j = 4
+H(\xi^i) = \frac{1}{2m} \xi^{j} \xi_{j} + \frac{a}{\sqrt{(\xi^1)^2 + (\xi^2)^2}} - b \xi^1 \xi_4 \quad j = 4, 5, 6.
 $$
 
 $$
@@ -121,7 +126,7 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjEwNDU4NiwtMTk0MTkwNTMwMywxNj
-UwODkyOTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5NzcsLTE0NjAz
-Mjc4NzAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzNzA1NzQxNjAsLTE5NDE5MDUzMDMsMT
+Y1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgyOTc3LC0xNDYw
+MzI3ODcwLDczMDk5ODExNl19
 -->
