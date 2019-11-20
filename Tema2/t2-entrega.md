@@ -66,9 +66,6 @@ $$
 X_H = \left( - b q_{1}  + \frac{p_{1}}{m} \right) \frac{\partial}{\partial q^1} +   \frac{p_{2}}{m} \frac{\partial}{\partial q^2}  +  \frac{p_{3}}{m} \frac{\partial}{\partial q^3} + \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2} 
 $$
 
-### Curvas Integrales
-
-
 ### Flujos hamiltonianos.
 
 $$
@@ -106,6 +103,8 @@ $$
 $$
 \mathcal{L}_{\chi_f}g = \chi_f g = \omega^{jk}\partial_k f \partial_j g = \{g,f \} = - \mathcal{L}_{\chi_g}f
 $$
+
+### Curvas Integrales
 
 La derivada de Lie a lo largo del vector dinámico $\Delta$ da la evolución de g:
 
@@ -167,7 +166,7 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzAwMTI1LC04Nzk4MTA2NDEsLTMwNT
+eyJoaXN0b3J5IjpbMzY2OTQ2ODgzLC04Nzk4MTA2NDEsLTMwNT
 gwODUxMiwtMTk0MTkwNTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3
 OTIsLTE5NTA1ODI5NzcsLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX
 0=
