@@ -101,9 +101,13 @@ $$
 \mathcal{L}_{\chi_f}g = \chi_f g = \omega^{jk}\partial_k f \partial_j g = \{g,f \} = - \mathcal{L}_{\chi_g}f
 $$
 
+La derivada de Lie a lo largo del vector dinámico $\Delta$ da la evolución de g:
+
 $$
 \mathcal{L}_{\Delta}g = \frac{d}{dt} g =\partial_j f \dot{\xi}^j = \partial_j f \omega^{jk} \partial_k H = \{g,H\}
 $$
+
+Construir $\Delta
 
 
 ### Otra forma
@@ -126,7 +130,7 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA1NzQxNjAsLTE5NDE5MDUzMDMsMT
+eyJoaXN0b3J5IjpbLTE1MjY1OTE2ODQsLTE5NDE5MDUzMDMsMT
 Y1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgyOTc3LC0xNDYw
 MzI3ODcwLDczMDk5ODExNl19
 -->
