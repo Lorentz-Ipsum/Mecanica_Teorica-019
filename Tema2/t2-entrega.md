@@ -1,4 +1,13 @@
 
+# Del tema 1
+
+$$
+\begin{aligned}
+-\frac{aq_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}} + mb^2 q_1 &= m \ddot{q_1}\\
+-\frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}} + m b^2 q_2 &= m \ddot{q_2} \\
+m b^2 q_3 &= m \ddot{q_3}
+\end{aligned}
+$$
 
 # Sistemas Hamiltonianos
  
@@ -94,6 +103,6 @@ $$
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTYxNjc5MiwtMTk1MDU4Mjk3NywtMT
-Q2MDMyNzg3MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTY1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOT
+UwNTgyOTc3LC0xNDYwMzI3ODcwLDczMDk5ODExNl19
 -->
