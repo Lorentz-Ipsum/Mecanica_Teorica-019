@@ -35,8 +35,19 @@ $$
 
 
 ### Corchetes de Poisson
+
 $$
-\begin{aligned}\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, f\right\} p_{\gamma} \\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \partial f / \partial x^{\gamma}+p_{\gamma} \partial f / \partial p_{\beta}\right] \end{aligned}
+\begin{aligned}
+	\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, f\right\} p_{\gamma}
+	\\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \partial f / \partial x^{\gamma}+p_{\gamma} \partial f / \partial p_{\beta}\right]
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+	\left\{j_{\alpha},H \right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, f\right\} p_{\gamma}
+	\\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \partial f / \partial x^{\gamma}+p_{\gamma} \partial f / \partial p_{\beta}\right]
+\end{aligned}
 $$
 
 # Geometria simpléctica
@@ -169,8 +180,8 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMwNDA2MDMsLTkyODM4MDc4LDM2Nj
-k0Njg4MywtODc5ODEwNjQxLC0zMDU4MDg1MTIsLTE5NDE5MDUz
-MDMsMTY1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgyOTc3LC
-0xNDYwMzI3ODcwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzM5NDcyMzksLTEzNzMwNDA2MDMsLTkyOD
+M4MDc4LDM2Njk0Njg4MywtODc5ODEwNjQxLC0zMDU4MDg1MTIs
+LTE5NDE5MDUzMDMsMTY1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOT
+UwNTgyOTc3LC0xNDYwMzI3ODcwLDczMDk5ODExNl19
 -->
