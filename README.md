@@ -1,4 +1,4 @@
-# Mecanica_Teorica-2019
+# Mecanica_Teorica-019
 Apuntes de Mecánica Teórica. Formulario, problemas, libros útiles, etc.
 
 ## Links
@@ -238,6 +238,6 @@ movimiento condicionalmente periódico.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAzODYzNSwtMTIxMzgzOTMyNSwxMT
-M3NTY1Nzk1LDI3NzcxMTA3MiwtMjEzNzE4NTk2NV19
+eyJoaXN0b3J5IjpbNjE2NDExODczLC0xMjEzODM5MzI1LDExMz
+c1NjU3OTUsMjc3NzExMDcyLC0yMTM3MTg1OTY1XX0=
 -->
