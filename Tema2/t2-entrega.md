@@ -38,15 +38,16 @@ $$
 
 $$
 \begin{aligned}
-	\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, f\right\} p_{\gamma}
-	\\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \frac{\partial f}{\partial x^{\gamma}}+p_{\gamma} \frac{\partial f}{\partial p_{\beta}}\right]
+	\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{q^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} q^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{q^{\beta}, f\right\} p_{\gamma}
+	\\ &=\epsilon_{\alpha \beta \gamma}\left[-q^{\beta} \frac{\partial f}{\partial q^{\gamma}}+p_{\gamma} \frac{\partial f}{\partial p_{\beta}}\right]
 \end{aligned}
 $$
 
 $$
 \begin{aligned}
-	\left\{j_{\alpha}, H\right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, H\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, H\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, H\right\} p_{\gamma}
-	\\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \frac{\partial f}{\partial x^{\gamma}}+p_{\gamma} \frac{\partial f}{\partial p_{\beta}}\right]
+	\left\{j_{\alpha}, H\right\} &=\epsilon_{\alpha \beta \gamma}\left\{q^{\beta} p_{\gamma}, H\right\}=\epsilon_{\alpha \beta \gamma} q^{\beta}\left\{p_{\gamma}, H\right\}+\epsilon_{\alpha \beta \gamma}\left\{q^{\beta}, H\right\} p_{\gamma}
+	\\ &=\epsilon_{\alpha \beta \gamma}\left[-q^{\beta} \frac{\partial H}{\partial q^{\gamma}}+p_{\gamma} \frac{\partial H}{\partial p_{\beta}}\right]
+	\\ &=\epsilon_{\alpha \beta \gamma}\left[-q^{\beta} \frac{\partial H}{\partial q^{\gamma}}+p_{\gamma} \frac{\partial H}{\partial p_{\beta}}\right]
 	\end{aligned}
 $$
 
@@ -180,8 +181,8 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODE5NTQzNSwtMTM3MzA0MDYwMywtOT
-I4MzgwNzgsMzY2OTQ2ODgzLC04Nzk4MTA2NDEsLTMwNTgwODUx
-MiwtMTk0MTkwNTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3OTIsLT
-E5NTA1ODI5NzcsLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjcwNDY5MzM3LC0xMzczMDQwNjAzLC05Mj
+gzODA3OCwzNjY5NDY4ODMsLTg3OTgxMDY0MSwtMzA1ODA4NTEy
+LC0xOTQxOTA1MzAzLDE2NTA4OTI5MjEsMTkyOTYxNjc5MiwtMT
+k1MDU4Mjk3NywtMTQ2MDMyNzg3MCw3MzA5OTgxMTZdfQ==
 -->
