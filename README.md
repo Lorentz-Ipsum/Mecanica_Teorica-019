@@ -3,9 +3,9 @@ Apuntes de Mecánica Teórica. Formulario, problemas, libros útiles, etc.
 
 ## Links
 
-[Web donde se renderiza el repositorio](https://lorentz-ipsum.github.io/Mecanica_Teorica-2019/)
+[Web donde se renderiza el repositorio](https://lorentz-ipsum.github.io/Mecanica_Teorica-019/)
 
-[GitHub del repositorio](https://github.com/Lorentz-Ipsum/Mecanica_Teorica-2019)
+[GitHub del repositorio](https://github.com/Lorentz-Ipsum/Mecanica_Teorica-019)
 
 ---
 
@@ -238,6 +238,6 @@ movimiento condicionalmente periódico.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2NDExODczLC0xMjEzODM5MzI1LDExMz
-c1NjU3OTUsMjc3NzExMDcyLC0yMTM3MTg1OTY1XX0=
+eyJoaXN0b3J5IjpbLTE4MzAyODY1NzcsLTEyMTM4MzkzMjUsMT
+EzNzU2NTc5NSwyNzc3MTEwNzIsLTIxMzcxODU5NjVdfQ==
 -->
