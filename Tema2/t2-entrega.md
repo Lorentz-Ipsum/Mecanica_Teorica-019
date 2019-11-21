@@ -39,15 +39,15 @@ $$
 $$
 \begin{aligned}
 	\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, f\right\} p_{\gamma}
-	\\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \partial f / \partial x^{\gamma}+p_{\gamma} \partial f / \partial p_{\beta}\right]
+	\\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \frac{\partial f}{\partial x^{\gamma}}+p_{\gamma} \frac{\partial f}{\partial p_{\beta}}\right]
 \end{aligned}
 $$
 
 $$
 \begin{aligned}
-	\left\{j_{\alpha},H \right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, H\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, H\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, H\right\} p_{\gamma}
-	\\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \partial f / \partial x^{\gamma}+p_{\gamma} \partial f / \partial p_{\beta}\right]
-\end{aligned}
+	\left\{j_{\alpha}, H\right\} &=\epsilon_{\alpha \beta \gamma}\left\{x^{\beta} p_{\gamma}, H\right\}=\epsilon_{\alpha \beta \gamma} x^{\beta}\left\{p_{\gamma}, H\right\}+\epsilon_{\alpha \beta \gamma}\left\{x^{\beta}, H\right\} p_{\gamma}
+	\\ &=\epsilon_{\alpha \beta \gamma}\left[-x^{\beta} \frac{\partial f}{\partial x^{\gamma}}+p_{\gamma} \frac{\partial f}{\partial p_{\beta}}\right]
+	\end{aligned}
 $$
 
 # Geometria simpléctica
@@ -180,8 +180,8 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjMzMDc4OTksLTEzNzMwNDA2MDMsLT
-kyODM4MDc4LDM2Njk0Njg4MywtODc5ODEwNjQxLC0zMDU4MDg1
-MTIsLTE5NDE5MDUzMDMsMTY1MDg5MjkyMSwxOTI5NjE2NzkyLC
-0xOTUwNTgyOTc3LC0xNDYwMzI3ODcwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTY0ODE5NTQzNSwtMTM3MzA0MDYwMywtOT
+I4MzgwNzgsMzY2OTQ2ODgzLC04Nzk4MTA2NDEsLTMwNTgwODUx
+MiwtMTk0MTkwNTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3OTIsLT
+E5NTA1ODI5NzcsLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX0=
 -->
