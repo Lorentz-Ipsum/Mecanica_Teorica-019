@@ -23,12 +23,9 @@ Trabajo CFT / [Trabajo de CFT Bib](Trabajo_CFT/cft-bib.md)
 
 Tema 2 /  [Index T2](Tema2/t2-indx.md)
 
-
 Tema 2 /  [Entrega T2](Tema2/t2-entrega.md)
 
-
 Tema 2 /  [Ecuaciones T2](Tema2/t2-equs.md)
-
 
 ---
 
@@ -238,6 +235,7 @@ movimiento condicionalmente periódico.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAyODY1NzcsLTEyMTM4MzkzMjUsMT
-EzNzU2NTc5NSwyNzc3MTEwNzIsLTIxMzcxODU5NjVdfQ==
+eyJoaXN0b3J5IjpbMjEzMDc3MzI4MSwtMTgzMDI4NjU3NywtMT
+IxMzgzOTMyNSwxMTM3NTY1Nzk1LDI3NzcxMTA3MiwtMjEzNzE4
+NTk2NV19
 -->
