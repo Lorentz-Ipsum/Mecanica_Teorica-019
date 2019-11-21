@@ -47,7 +47,7 @@ $$
 \begin{aligned}
 	\left\{j_{\alpha}, H\right\} &=\epsilon_{\alpha \beta \gamma}\left\{q^{\beta} p_{\gamma}, H\right\}=\epsilon_{\alpha \beta \gamma} q^{\beta}\left\{p_{\gamma}, H\right\}+\epsilon_{\alpha \beta \gamma}\left\{q^{\beta}, H\right\} p_{\gamma}
 	\\ &=\epsilon_{\alpha \beta \gamma}\left[-q^{\beta} \frac{\partial H}{\partial q^{\gamma}}+p_{\gamma} \frac{\partial H}{\partial p_{\beta}}\right]
-	\\ &=\epsilon_{\alpha \beta \gamma}\left[-q^{\beta} \frac{\partial H}{\partial q^{\gamma}}+p_{\gamma} \frac{\partial H}{\partial p_{\beta}}\right]
+	\\ &=\epsilon_{\alpha \beta \gamma}\left[-q^{\beta}\dot{p_\gamma} +p_{\gamma} \dot{q^\beta}\right]
 	\end{aligned}
 $$
 
@@ -181,8 +181,8 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNDY5MzM3LC0xMzczMDQwNjAzLC05Mj
-gzODA3OCwzNjY5NDY4ODMsLTg3OTgxMDY0MSwtMzA1ODA4NTEy
-LC0xOTQxOTA1MzAzLDE2NTA4OTI5MjEsMTkyOTYxNjc5MiwtMT
-k1MDU4Mjk3NywtMTQ2MDMyNzg3MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2OTIxNzY3MTMsLTEzNzMwNDA2MDMsLT
+kyODM4MDc4LDM2Njk0Njg4MywtODc5ODEwNjQxLC0zMDU4MDg1
+MTIsLTE5NDE5MDUzMDMsMTY1MDg5MjkyMSwxOTI5NjE2NzkyLC
+0xOTUwNTgyOTc3LC0xNDYwMzI3ODcwLDczMDk5ODExNl19
 -->
