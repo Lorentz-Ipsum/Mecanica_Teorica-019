@@ -79,6 +79,8 @@ $$
 X_H = \left( - b q_{1}  + \frac{p_{1}}{m} \right) \frac{\partial}{\partial q^1} +   \frac{p_{2}}{m} \frac{\partial}{\partial q^2}  +  \frac{p_{3}}{m} \frac{\partial}{\partial q^3} + \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2} 
 $$
 
+
+
 ### Flujos hamiltonianos.
 
 $$
@@ -181,8 +183,8 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIxNzY3MTMsLTEzNzMwNDA2MDMsLT
-kyODM4MDc4LDM2Njk0Njg4MywtODc5ODEwNjQxLC0zMDU4MDg1
-MTIsLTE5NDE5MDUzMDMsMTY1MDg5MjkyMSwxOTI5NjE2NzkyLC
-0xOTUwNTgyOTc3LC0xNDYwMzI3ODcwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODA1NjY2NTc5LC0xMzczMDQwNjAzLC05Mj
+gzODA3OCwzNjY5NDY4ODMsLTg3OTgxMDY0MSwtMzA1ODA4NTEy
+LC0xOTQxOTA1MzAzLDE2NTA4OTI5MjEsMTkyOTYxNjc5MiwtMT
+k1MDU4Mjk3NywtMTQ2MDMyNzg3MCw3MzA5OTgxMTZdfQ==
 -->
