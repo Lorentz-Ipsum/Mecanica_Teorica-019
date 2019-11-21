@@ -1,3 +1,4 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 # Del tema 1
 
@@ -168,8 +169,8 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODM4MDc4LDM2Njk0Njg4MywtODc5OD
-EwNjQxLC0zMDU4MDg1MTIsLTE5NDE5MDUzMDMsMTY1MDg5Mjky
-MSwxOTI5NjE2NzkyLC0xOTUwNTgyOTc3LC0xNDYwMzI3ODcwLD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEzNzMwNDA2MDMsLTkyODM4MDc4LDM2Nj
+k0Njg4MywtODc5ODEwNjQxLC0zMDU4MDg1MTIsLTE5NDE5MDUz
+MDMsMTY1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgyOTc3LC
+0xNDYwMzI3ODcwLDczMDk5ODExNl19
 -->
