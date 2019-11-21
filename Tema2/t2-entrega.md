@@ -79,11 +79,33 @@ $$
 X_H = \left( - b q_{1}  + \frac{p_{1}}{m} \right) \frac{\partial}{\partial q^1} +   \frac{p_{2}}{m} \frac{\partial}{\partial q^2}  +  \frac{p_{3}}{m} \frac{\partial}{\partial q^3} + \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2} 
 $$
 
+---
 
+$$
+X_H[q^1] = \left( - b q_{1}  + \frac{p_{1}}{m} \right)
+$$
+
+$$
+X_H[q^2] = \frac{p_{2}}{m}
+$$
+
+$$
+X_H[q^3] = \frac{p_{3}}{m} 
+$$
+
+$$
+X_H[p_1] = \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right)
+$$
+
+$$
+X_H[p_2] = \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}
+$$
 
 $$
 X_H[p_3] = 0 
 $$
+
+---
 
 ### Flujos hamiltonianos.
 
@@ -187,7 +209,7 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODgxNDI2OSwtMTM3MzA0MDYwMywtOT
+eyJoaXN0b3J5IjpbMTkyNDcwOTk4MiwtMTM3MzA0MDYwMywtOT
 I4MzgwNzgsMzY2OTQ2ODgzLC04Nzk4MTA2NDEsLTMwNTgwODUx
 MiwtMTk0MTkwNTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3OTIsLT
 E5NTA1ODI5NzcsLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX0=
