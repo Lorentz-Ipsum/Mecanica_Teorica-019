@@ -81,6 +81,10 @@ $$
 
 
 
+$$
+X_H[p_3] = 0 
+$$
+
 ### Flujos hamiltonianos.
 
 $$
@@ -183,8 +187,8 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NjY2NTc5LC0xMzczMDQwNjAzLC05Mj
-gzODA3OCwzNjY5NDY4ODMsLTg3OTgxMDY0MSwtMzA1ODA4NTEy
-LC0xOTQxOTA1MzAzLDE2NTA4OTI5MjEsMTkyOTYxNjc5MiwtMT
-k1MDU4Mjk3NywtMTQ2MDMyNzg3MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTYwODgxNDI2OSwtMTM3MzA0MDYwMywtOT
+I4MzgwNzgsMzY2OTQ2ODgzLC04Nzk4MTA2NDEsLTMwNTgwODUx
+MiwtMTk0MTkwNTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3OTIsLT
+E5NTA1ODI5NzcsLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX0=
 -->
