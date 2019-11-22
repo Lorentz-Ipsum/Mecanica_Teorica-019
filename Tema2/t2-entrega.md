@@ -38,7 +38,7 @@ $$
 
 $$
 \begin{aligned}
-	\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} ^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left{q^{\beta}, f\right} p_{\gamma}\\ &=\epsilon_{\alpha \beta \gamma}\left[-^{\beta} \frac{\partial f}{\partial ^{\gamma}p_{\gamma} \frac{\partial f}{\partial p_{\beta}}\right]
+	\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} ^{\beta}\left{p_{\gamma}, f \right} +\epsilon_{\alpha \beta \gamma}\left{q^{\beta}, f\right} p_{\gamma}\\ &=\epsilon_{\alpha \beta \gamma}\left[-^{\beta} \frac{\partial f}{\partial ^{\gamma}p_{\gamma} \frac{\partial f}{\partial p_{\beta}}\right]
 \end{aligned}
 $$
 
@@ -217,10 +217,10 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 https://macul.ciencias.uchile.cl/alejo/clases/2019_mechanics/capitulo_5.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODQxODgwMSwtNTMyMzM5MjE1LC0xMz
-M3MzEwMTQ5LC0zODU3NDU5NzksODI4MjEwMDM5LDgyODkyNzQ3
-LC0xMzczMDQwNjAzLC05MjgzODA3OCwzNjY5NDY4ODMsLTg3OT
-gxMDY0MSwtMzA1ODA4NTEyLC0xOTQxOTA1MzAzLDE2NTA4OTI5
-MjEsMTkyOTYxNjc5MiwtMTk1MDU4Mjk3NywtMTQ2MDMyNzg3MC
-w3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwMDE4MTM3NDUsLTUzMjMzOTIxNSwtMT
+MzNzMxMDE0OSwtMzg1NzQ1OTc5LDgyODIxMDAzOSw4Mjg5Mjc0
+NywtMTM3MzA0MDYwMywtOTI4MzgwNzgsMzY2OTQ2ODgzLC04Nz
+k4MTA2NDEsLTMwNTgwODUxMiwtMTk0MTkwNTMwMywxNjUwODky
+OTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5NzcsLTE0NjAzMjc4Nz
+AsNzMwOTk4MTE2XX0=
 -->
