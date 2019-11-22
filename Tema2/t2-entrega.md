@@ -38,8 +38,7 @@ $$
 
 $$
 \begin{aligned}
-	\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{q^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} q^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{q^{\beta}, f\right\} p_{\gamma}
-	\\ &=\epsilon_{\alpha \beta \gamma}\left[-q^{\beta} \frac{\partial f}{\partial q^{\gamma}}+p_{\gamma} \frac{\partial f}{\partial p_{\beta}}\right]
+	\left\{j_{\alpha}, f\right\} &=\epsilon_{\alpha \beta \gamma}\left\{^{\beta} p_{\gamma}, f\right\}=\epsilon_{\alpha \beta \gamma} ^{\beta}\left\{p_{\gamma}, f\right\}+\epsilon_{\alpha \beta \gamma}\left\{q^{\beta}, f\right\} p_{\gamma}\\ &=\epsilon_{\alpha \beta \gamma}\left[-^{\beta} \frac{\partial f}{\partial ^{\gamma}p_{\gamma} \frac{\partial f}{\partial p_{\beta}}\right]
 \end{aligned}
 $$
 
@@ -83,13 +82,13 @@ $$
 
 $$
 \begin{aligned}
-X_H[q^1] &= - b q_{1}  + \frac{p_{1}}{m}
+X_H[q^1] &= \left( - b q_{1}  + \frac{p_{1}}{m} \right)
 \\ X_H[q^2] &= \frac{p_{2}}{m}
 \\ X_H[q^3] &= \frac{p_{3}}{m} 
 \end{aligned}
 \quad
 \begin{aligned}
-X_H[p_1] &= \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1
+X_H[p_1] &= \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right)
 \\ X_H[p_2] &= \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}
 \\ X_H[p_3] &= 0 
 \end{aligned}
@@ -200,8 +199,9 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4OTI3NDcsLTEzNzMwNDA2MDMsLTkyOD
-M4MDc4LDM2Njk0Njg4MywtODc5ODEwNjQxLC0zMDU4MDg1MTIs
-LTE5NDE5MDUzMDMsMTY1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOT
-UwNTgyOTc3LC0xNDYwMzI3ODcwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODI4MjEwMDM5LDgyODkyNzQ3LC0xMzczMD
+QwNjAzLC05MjgzODA3OCwzNjY5NDY4ODMsLTg3OTgxMDY0MSwt
+MzA1ODA4NTEyLC0xOTQxOTA1MzAzLDE2NTA4OTI5MjEsMTkyOT
+YxNjc5MiwtMTk1MDU4Mjk3NywtMTQ2MDMyNzg3MCw3MzA5OTgx
+MTZdfQ==
 -->
