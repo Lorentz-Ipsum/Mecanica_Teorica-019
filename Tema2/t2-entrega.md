@@ -50,7 +50,7 @@ $$
 	\end{aligned}
 $$
 
-# Geometria simpléctica
+## Geometria simpléctica
 
 ### Coordenadas unificadas
 
@@ -175,7 +175,7 @@ $$
 \phi_s^X = e^{s\mathcal{L}_X}
 $$
 
-## Teorema de Darboux
+### Teorema de Darboux
 
 Existe una carta local en la que:
 
@@ -192,16 +192,23 @@ $$
 
 Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante y $\mathcal{L}_g$ una variedad de dimensión $2n-2$
 
-# Transformaciones canónicas
+## Transformaciones canónicas
 
 
-# Invariantes
+## Invariantes
 
+
+
+# Links
+
+[ | Integral invariant - Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Integral_invariant)
+[ | 13798.pdf](http://diposit.ub.edu/dspace/bitstream/2445/24549/1/13798.pdf)
+[ | Poincaré Invariants](https://farside.ph.utexas.edu/teaching/plasma/lectures1/node19.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MjEwMDM5LDgyODkyNzQ3LC0xMzczMD
-QwNjAzLC05MjgzODA3OCwzNjY5NDY4ODMsLTg3OTgxMDY0MSwt
-MzA1ODA4NTEyLC0xOTQxOTA1MzAzLDE2NTA4OTI5MjEsMTkyOT
-YxNjc5MiwtMTk1MDU4Mjk3NywtMTQ2MDMyNzg3MCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTM4NTc0NTk3OSw4MjgyMTAwMzksODI4OT
+I3NDcsLTEzNzMwNDA2MDMsLTkyODM4MDc4LDM2Njk0Njg4Mywt
+ODc5ODEwNjQxLC0zMDU4MDg1MTIsLTE5NDE5MDUzMDMsMTY1MD
+g5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgyOTc3LC0xNDYwMzI3
+ODcwLDczMDk5ODExNl19
 -->
