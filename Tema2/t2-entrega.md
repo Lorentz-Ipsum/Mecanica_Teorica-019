@@ -204,11 +204,20 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 [ | Integral invariant - Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Integral_invariant)
 [ | 13798.pdf](http://diposit.ub.edu/dspace/bitstream/2445/24549/1/13798.pdf)
 [ | Poincaré Invariants](https://farside.ph.utexas.edu/teaching/plasma/lectures1/node19.html)
+[ | corchetes de poisson - Google Search](https://www.google.com/search?client=firefox-b-d&q=corchetes+de+poisson)
+[ | Poisson bracket - Wikipedia](https://en.wikipedia.org/wiki/Poisson_bracket)
+[ | Corchete de Poisson - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Corchete_de_Poisson)
+[ | List of LaTeX mathematical symbols - OeisWiki](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+[ | Corchete de Poisson - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Corchete_de_Poisson)
+[ | transformaciones canónicas - Google Search](https://www.google.com/search?client=firefox-b-d&q=transformaciones+can%C3%B3nicas)
+[ | Transformación canónica - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Transformaci%C3%B3n_can%C3%B3nica)
+[ | Transformaciones infinitesimales](http://delta.cs.cinvestav.mx/~mcintosh/comun/pb/node5.html)
+[ | Transformaciones canónicas](http://delta.cs.cinvestav.mx/~mcintosh/comun/pb/node4.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTc0NTk3OSw4MjgyMTAwMzksODI4OT
-I3NDcsLTEzNzMwNDA2MDMsLTkyODM4MDc4LDM2Njk0Njg4Mywt
-ODc5ODEwNjQxLC0zMDU4MDg1MTIsLTE5NDE5MDUzMDMsMTY1MD
-g5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgyOTc3LC0xNDYwMzI3
-ODcwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEzMzczMTAxNDksLTM4NTc0NTk3OSw4Mj
+gyMTAwMzksODI4OTI3NDcsLTEzNzMwNDA2MDMsLTkyODM4MDc4
+LDM2Njk0Njg4MywtODc5ODEwNjQxLC0zMDU4MDg1MTIsLTE5ND
+E5MDUzMDMsMTY1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgy
+OTc3LC0xNDYwMzI3ODcwLDczMDk5ODExNl19
 -->
