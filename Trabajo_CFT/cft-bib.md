@@ -58,15 +58,17 @@ En mi primera búsqueda en google alternando palabras he encontrado:
 
 [Link a lista de Links](https://www.one-tab.com/page/5d9ieJoSQliDsr1MTc1aSA)
 
+# Tercera Caza
 
 [ | Field Theoretic Approach to Hydrodynamics I. The Clebsch Transformation of the Hydrodynamic Equation - Ichiyanagi - 1991 - Fortschritte der Physik/Progress of Physics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1002/prop.2190390104)
 [ | Teoría de campo efectivo - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_campo_efectivo)
 [ | [1712.05687] Generalized hydrodynamics of classical integrable field theory: the sinh-Gordon model](https://arxiv.org/abs/1712.05687)
+[ | Campo de Yang-Mills - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Campo_de_Yang-Mills)
 
 ---
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDM5NjIyLDEyMTI2ODA1MTYsNDMwNz
-k3MDQ4XX0=
+eyJoaXN0b3J5IjpbLTEzMDQ0NzMzMTQsLTM5NDM5NjIyLDEyMT
+I2ODA1MTYsNDMwNzk3MDQ4XX0=
 -->
