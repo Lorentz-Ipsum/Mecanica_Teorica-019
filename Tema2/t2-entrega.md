@@ -214,10 +214,13 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 [ | Transformaciones infinitesimales](http://delta.cs.cinvestav.mx/~mcintosh/comun/pb/node5.html)
 [ | Transformaciones canónicas](http://delta.cs.cinvestav.mx/~mcintosh/comun/pb/node4.html)
 
+https://macul.ciencias.uchile.cl/alejo/clases/2019_mechanics/capitulo_5.pdf
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzczMTAxNDksLTM4NTc0NTk3OSw4Mj
-gyMTAwMzksODI4OTI3NDcsLTEzNzMwNDA2MDMsLTkyODM4MDc4
-LDM2Njk0Njg4MywtODc5ODEwNjQxLC0zMDU4MDg1MTIsLTE5ND
-E5MDUzMDMsMTY1MDg5MjkyMSwxOTI5NjE2NzkyLC0xOTUwNTgy
-OTc3LC0xNDYwMzI3ODcwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTUzMjMzOTIxNSwtMTMzNzMxMDE0OSwtMz
+g1NzQ1OTc5LDgyODIxMDAzOSw4Mjg5Mjc0NywtMTM3MzA0MDYw
+MywtOTI4MzgwNzgsMzY2OTQ2ODgzLC04Nzk4MTA2NDEsLTMwNT
+gwODUxMiwtMTk0MTkwNTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3
+OTIsLTE5NTA1ODI5NzcsLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX
+0=
 -->
