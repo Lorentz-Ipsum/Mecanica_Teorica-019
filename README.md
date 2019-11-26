@@ -3,9 +3,9 @@ Apuntes de Mecánica Teórica. Formulario, problemas, libros útiles, etc.
 
 ## Links
 
-[Web donde se renderiza el repositorio](https://lorentz-ipsum.github.io/Mecanica_Teorica-2019/)
+[Web donde se renderiza el repositorio](https://lorentz-ipsum.github.io/Mecanica_Teorica-019/)
 
-[GitHub del repositorio](https://github.com/Lorentz-Ipsum/Mecanica_Teorica-2019)
+[GitHub del repositorio](https://github.com/Lorentz-Ipsum/Mecanica_Teorica-019)
 
 ---
 
