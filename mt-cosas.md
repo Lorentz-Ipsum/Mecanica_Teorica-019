@@ -1,3 +1,4 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 
 ## 1. Mecánica lagrangiana
 
@@ -179,6 +180,6 @@ Simplectomorfismos, transformaciones canonoides, función generatriz y tipos de
 Teorema de Liouville, distribuciones estadísticas, invariante integral de Poincaré, espacio de fases extendido, invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDk3Nzc4NywxNjc5NjMzODM3LC0zNz
+eyJoaXN0b3J5IjpbMTUzMTMxOTkzNiwxNjc5NjMzODM3LC0zNz
 MzNTkzNjIsNTkxODg3NTcxLDU4MTUyODYwM119
 -->
