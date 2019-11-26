@@ -162,7 +162,7 @@ $$
 
 ### Otra forma
 
-$$
+$$.
 i_{X_F} \omega = dF
 $$
 
@@ -217,10 +217,10 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 https://macul.ciencias.uchile.cl/alejo/clases/2019_mechanics/capitulo_5.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE4MTM3NDUsLTUzMjMzOTIxNSwtMT
-MzNzMxMDE0OSwtMzg1NzQ1OTc5LDgyODIxMDAzOSw4Mjg5Mjc0
-NywtMTM3MzA0MDYwMywtOTI4MzgwNzgsMzY2OTQ2ODgzLC04Nz
-k4MTA2NDEsLTMwNTgwODUxMiwtMTk0MTkwNTMwMywxNjUwODky
-OTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5NzcsLTE0NjAzMjc4Nz
-AsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxMzM1MTMyODUsLTIwMDE4MTM3NDUsLT
+UzMjMzOTIxNSwtMTMzNzMxMDE0OSwtMzg1NzQ1OTc5LDgyODIx
+MDAzOSw4Mjg5Mjc0NywtMTM3MzA0MDYwMywtOTI4MzgwNzgsMz
+Y2OTQ2ODgzLC04Nzk4MTA2NDEsLTMwNTgwODUxMiwtMTk0MTkw
+NTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5Nz
+csLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX0=
 -->
