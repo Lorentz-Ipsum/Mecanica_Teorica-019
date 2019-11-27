@@ -55,8 +55,12 @@ Matemáticas de 1o y 2o del Grado en Físicas. Mecánica Clásica del Grado 
 ▪ E. J. Saletan, A. H. Cromer, Theoretical Mechanics, Wiley, 1971.
 
 ## Complementaria
-▪ V.I.Arnold,MathematicalMethodsofClassicalMechanics,SecondEdition,Springer-Verlag,1989. ▪ A. F. Fasano, S. Marmi, Analytical Mechanics, Oxford University Press, 2006.
+▪V.I.Arnold,MathematicalMethodsofClassicalMechanics,SecondEdition,Springer-Verlag,1989. 
+
+▪ A. F. Fasano, S. Marmi, Analytical Mechanics, Oxford University Press, 2006.
+
 ▪ A. J. Lichtenberg, M. A. Lieberman, Regular and Chaotic Dynamics, Second Edition, Springer- Verlag, 1992.
+
 ▪ F. A. Scheck, Mechanics: From Newton’s Laws to Deterministic Chaos, Fourth Edition, Springer, 2005.
 
 
@@ -238,7 +242,7 @@ movimiento condicionalmente periódico.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAzODYzNSwyMTMwNzczMjgxLC0xOD
-MwMjg2NTc3LC0xMjEzODM5MzI1LDExMzc1NjU3OTUsMjc3NzEx
-MDcyLC0yMTM3MTg1OTY1XX0=
+eyJoaXN0b3J5IjpbMTY2MjcwMDE0OSwtMjA1MDM4NjM1LDIxMz
+A3NzMyODEsLTE4MzAyODY1NzcsLTEyMTM4MzkzMjUsMTEzNzU2
+NTc5NSwyNzc3MTEwNzIsLTIxMzcxODU5NjVdfQ==
 -->
