@@ -1,5 +1,10 @@
 
-# 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# Ecuaciones de Garay
 
 # Leyes de transformación
 ## Traslaciones
@@ -45,7 +50,16 @@ $$
 ## Tensor campo electromagnético
 ## Ecuaciones de Maxwell
 ## Formulación hamiltoniana
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+# Ecuaciones de Saletan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ0MjI0ODMsMTk3MjA5MDAxNSwtMj
-A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTA1NTcxNjMxNiwxOTcyMDkwMDE1LC0yMD
+g4NzQ2NjEyLDczMDk5ODExNl19
 -->
