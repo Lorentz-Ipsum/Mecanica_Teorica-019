@@ -19,6 +19,7 @@ Trabajo CFT / [Trabajo de CFT readme](Trabajo_CFT/cft-readme.md)
 
 Trabajo CFT / [Trabajo de CFT Bib](Trabajo_CFT/cft-bib.md)
 
+
 ---
 
 Tema 2 /  [Index T2](Tema2/t2-indx.md)
@@ -55,7 +56,7 @@ Matemáticas de 1o y 2o del Grado en Físicas. Mecánica Clásica del Grado 
 ▪ E. J. Saletan, A. H. Cromer, Theoretical Mechanics, Wiley, 1971.
 
 ## Complementaria
-▪V.I.Arnold,MathematicalMethodsofClassicalMechanics,SecondEdition,Springer-Verlag,1989. 
+▪V.I.Arnold,MathematicalMethodsofClassicalMechanics,SecondEdition,Springer-Verlag,1989.
 
 ▪ A. F. Fasano, S. Marmi, Analytical Mechanics, Oxford University Press, 2006.
 

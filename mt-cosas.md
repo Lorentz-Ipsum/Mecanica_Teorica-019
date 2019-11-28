@@ -1,4 +1,4 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 ## 1. Mecánica lagrangiana
 
@@ -104,16 +104,16 @@ movimiento condicionalmente periódico.
 ### Mecanica avanzada
 
 $\begin{matrix}
-T\mathcal{M} & \to & T^*\mathcal{M} \\
+T\mathcal{M} & \to & T^* \mathcal{M} \\
 \mathbf{v} & \to & i_\mathbf{v}\omega=\omega(\mathbf{v},\cdot)
 \end{matrix}$
 
 $i_\mathbf{v}\omega = \mathrm{d}\hat{H}$
 
-$\mathbf{v}|_\phi =
+$\mathbf{v}|_ {\phi} =
 \begin{bmatrix} \dot{p}_1\\ \dots\\ \dot{p}_N\\ \dot{q}_1\\ \dots\\ \dot{q}_N\\ \end{bmatrix}
-\qquad \mathbf{\hat{H}}|_\phi^T = \begin{bmatrix} \frac{\partial H}{\partial p_1}\\ \dots\\ \frac{\partial H}{\partial p_N}\\ \frac{\partial H}{\partial q_1}\\ \dots\\ \frac{\partial H}{\partial q_N}\\ \end{bmatrix}
-\qquad \omega|_\phi = \begin{bmatrix}
+\qquad \mathbf{\hat{H}}|_ \phi^T = \begin{bmatrix} \frac{\partial H}{\partial p_1}\\ \dots\\ \frac{\partial H}{\partial p_N}\\ \frac{\partial H}{\partial q_1}\\ \dots\\ \frac{\partial H}{\partial q_N}\\ \end{bmatrix}
+\qquad \omega|_ \phi = \begin{bmatrix}
 0     & \dots & 0     & -1   & \dots & 0    \\
 \dots & \dots & \dots &\dots & \dots & \dots\\
 0     & \dots & 0     & 0    & \dots & -1   \\
@@ -121,7 +121,7 @@ $\mathbf{v}|_\phi =
 \dots & \dots & \dots &\dots & \dots & \dots\\
 0     & \dots & 1     & 0    & \dots & 0    \\   \end{bmatrix}$
 
-$i_\mathbf{v}\omega|_phi = \mathrm{d}\hat{H}|_\phi \Rightarrow 
+$i_\mathbf{v}\omega|_ \phi = \mathrm{d}\hat{H}|_\phi \Rightarrow 
 \begin{bmatrix} \dot{p}_1\\ \dots\\ \dot{p}_N\\ \dot{q}_1\\ \dots\\ \dot{q}_N\\ \end{bmatrix} =
 \begin{bmatrix}
   0     & \dots & 0     & -1   & \dots & 0    \\
@@ -167,16 +167,16 @@ En esta formulación alternativa un [[estado (análisis funcional)|estado]] es u
 
 
 ## Prueba 1
-### 2.1. Sistemas hamiltonianos: 
+### 2.1. Sistemas hamiltonianos:
 Transformación de Legendre, ecuaciones de Hamilton, espacio de fases, corchetes de Poisson.
 
-### 2.2. Geometría simpléctica: 
+### 2.2. Geometría simpléctica:
 Forma simpléctica, ecuaciones de Hamilton, flujos hamiltonianos, flujo de un campo vectorial, campos vectoriales hamiltonianos, teorema de Noether, variedades simplécticas, teorema de Darboux y reducción por simetría.
 
-### 2.3. Transformaciones canónicas: 
+### 2.3. Transformaciones canónicas:
 Simplectomorfismos, transformaciones canonoides, función generatriz y tipos de transformaciones canónicas.
 
-### 2.4. Invariantes: 
+### 2.4. Invariantes:
 Teorema de Liouville, distribuciones estadísticas, invariante integral de Poincaré, espacio de fases extendido, invariante integral de Poincaré-Cartan y cantidades conservadas.
 
 <!--stackedit_data:
