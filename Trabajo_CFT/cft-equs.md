@@ -12,6 +12,11 @@ $$
 $$
 
 			Campo vectorial
+				Gradiente de campo escalar
+$$
+\begin{array}{c}{\left(S_{\nu \rho}\right)^{\mu \sigma}=-2 i \delta_{[\nu}^{\mu} \delta_{\rho]}^{\sigma}} \\ {\qquad \delta V^{\mu}=\frac{i}{2} \delta \omega^{\rho \sigma} J_{\rho \sigma} V^{\mu}} \\ {\qquad J_{\rho \sigma}=L_{\rho \sigma}+S_{\rho \sigma} \quad \text { y } \quad S_{\rho \sigma} V^{\mu}=\left(S_{\rho \sigma}\right)_{\nu}^{\mu} V^{\nu}}\end{array}
+$$
+
 			Campo tensorial
 	Dinámica lagrangiana y hamiltoniana
 		Principio variacional
@@ -27,6 +32,6 @@ $$
 		Ecuaciones de Maxwell
 		Formulación hamiltoniana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjA5MDAxNSwtMjA4ODc0NjYxMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ0MTU4NDc5NCwxOTcyMDkwMDE1LC0yMD
+g4NzQ2NjEyLDczMDk5ODExNl19
 -->
