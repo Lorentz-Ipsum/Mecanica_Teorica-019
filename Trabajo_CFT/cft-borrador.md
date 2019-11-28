@@ -6,7 +6,21 @@
 			Campo escalar
 			Campo vectorial
 			Campo tensorial
-	Dinámica lagr
+	Dinámica lagrangiana y hamiltoniana
+		Principio variacional
+		Cantidades conservadas.
+			Teorema de Noether
+			Invariancia bajo traslaciones
+			Invariancia Lorentz
+			Invariancia Poincaré
+		Formulación hamiltoniana
+	Camppo electromagnético
+		Invariancia gauge abeliana
+		Tensor campo electromagnético
+		Ecuaciones de Maxwell
+		Formulación hamiltoniana
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ3ODUwNTNdfQ==
+eyJoaXN0b3J5IjpbLTU4NDg4MjAwXX0=
 -->
