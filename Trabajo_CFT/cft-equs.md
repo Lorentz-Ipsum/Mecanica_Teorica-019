@@ -47,8 +47,11 @@ $$
 
 # Campo electromagnético
 ## Invariancia gauge abeliana
+
 ## Tensor campo electromagnético
+
 ## Ecuaciones de Maxwell
+
 ## Formulación hamiltoniana
 
 
@@ -60,6 +63,6 @@ $$
 
 # Ecuaciones de Saletan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTcxNjMxNiwxOTcyMDkwMDE1LC0yMD
-g4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE4MzczOTYyMDYsMTA1NTcxNjMxNiwxOT
+cyMDkwMDE1LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
 -->
