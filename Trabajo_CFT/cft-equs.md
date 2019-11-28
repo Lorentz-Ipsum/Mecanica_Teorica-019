@@ -1,4 +1,5 @@
 
+# 
 
 # Leyes de transformación
 ## Traslaciones
@@ -38,12 +39,13 @@ $$
 ### Invariancia Lorentz
 ### Invariancia Poincaré
 ## Formulación hamiltoniana
-	Camppo electromagnético
+
+# Campo electromagnético
 ## Invariancia gauge abeliana
 ## Tensor campo electromagnético
 ## Ecuaciones de Maxwell
 ## Formulación hamiltoniana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTM0MDEzMywxOTcyMDkwMDE1LC0yMD
-g4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyOTQ0MjI0ODMsMTk3MjA5MDAxNSwtMj
+A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
