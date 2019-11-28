@@ -31,19 +31,19 @@ $$
 ### Campo tensorial
 
 # Dinámica lagrangiana y hamiltoniana
-		Principio variacional
-		Cantidades conservadas.
-			Teorema de Noether
-			Invariancia bajo traslaciones
-			Invariancia Lorentz
-			Invariancia Poincaré
-		Formulación hamiltoniana
+## Principio variacional
+## Cantidades conservadas.
+### Teorema de Noether
+### Invariancia bajo traslaciones
+### Invariancia Lorentz
+### Invariancia Poincaré
+## Formulación hamiltoniana
 	Camppo electromagnético
-		Invariancia gauge abeliana
-		Tensor campo electromagnético
-		Ecuaciones de Maxwell
-		Formulación hamiltoniana
+## Invariancia gauge abeliana
+## Tensor campo electromagnético
+## Ecuaciones de Maxwell
+## Formulación hamiltoniana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODEyOTAwOSwxOTcyMDkwMDE1LC0yMD
+eyJoaXN0b3J5IjpbLTIyNTM0MDEzMywxOTcyMDkwMDE1LC0yMD
 g4NzQ2NjEyLDczMDk5ODExNl19
 -->
