@@ -1,5 +1,8 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+A VER SI ESTO SE COMMITEA DE VERDAD
+
+
 ## 1. Mecánica lagrangiana
 
 ### 1.1. Dinámica lagrangiana:
@@ -121,7 +124,7 @@ $\mathbf{v}|_ {\phi} =
 \dots & \dots & \dots &\dots & \dots & \dots\\
 0     & \dots & 1     & 0    & \dots & 0    \\   \end{bmatrix}$
 
-$i_\mathbf{v}\omega|_ \phi = \mathrm{d}\hat{H}|_\phi \Rightarrow 
+$i_\mathbf{v}\omega|_ \phi = \mathrm{d}\hat{H}|_\phi \Rightarrow
 \begin{bmatrix} \dot{p}_1\\ \dots\\ \dot{p}_N\\ \dot{q}_1\\ \dots\\ \dot{q}_N\\ \end{bmatrix} =
 \begin{bmatrix}
   0     & \dots & 0     & -1   & \dots & 0    \\
