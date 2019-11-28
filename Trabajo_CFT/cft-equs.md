@@ -13,8 +13,19 @@ $$
 
 			Campo vectorial
 				Gradiente de campo escalar
+Operador de espín
 $$
 \begin{array}{c}{\left(S_{\nu \rho}\right)^{\mu \sigma}=-2 i \delta_{[\nu}^{\mu} \delta_{\rho]}^{\sigma}} \\ {\qquad \delta V^{\mu}=\frac{i}{2} \delta \omega^{\rho \sigma} J_{\rho \sigma} V^{\mu}} \\ {\qquad J_{\rho \sigma}=L_{\rho \sigma}+S_{\rho \sigma} \quad \text { y } \quad S_{\rho \sigma} V^{\mu}=\left(S_{\rho \sigma}\right)_{\nu}^{\mu} V^{\nu}}\end{array}
+$$
+
+Casimires
+$$
+-P_{\mu} P^{\mu}=m^{2} \neq 0, \quad \vec{S}^{2}=W_{\mu} W^{\mu} / m^{2}
+$$
+
+				Campo general
+$$
+\delta B^{\mu}=\frac{i}{2} \delta \omega^{\rho \sigma} J_{\rho \sigma} B^{\mu}
 $$
 
 			Campo tensorial
@@ -32,6 +43,6 @@ $$
 		Ecuaciones de Maxwell
 		Formulación hamiltoniana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTU4NDc5NCwxOTcyMDkwMDE1LC0yMD
-g4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIxMDk0NTc1NjIsMTk3MjA5MDAxNSwtMj
+A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
