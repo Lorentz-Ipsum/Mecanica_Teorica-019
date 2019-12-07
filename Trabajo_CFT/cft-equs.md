@@ -62,7 +62,10 @@ $$
 
 
 # Ecuaciones de Saletan
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzczOTYyMDYsMTA1NTcxNjMxNiwxOT
-cyMDkwMDE1LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbOTc2OTQ0ODc4LC0xODM3Mzk2MjA2LDEwNT
+U3MTYzMTYsMTk3MjA5MDAxNSwtMjA4ODc0NjYxMiw3MzA5OTgx
+MTZdfQ==
 -->
