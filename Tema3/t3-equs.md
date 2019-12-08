@@ -11,13 +11,17 @@ $$
 p_{a}=\partial_{a} S, \quad p_{a}^{\prime}=-\partial_{a}^{\prime} S, \quad 0=H^{\prime}=H+\partial_{t} S
 $$
 
+Con
 $$
-{\partial_{a}=\partial / \partial q^{a} \text { y } \partial_{a}^{\prime}=\partial / \partial q^{\prime a}
+{\partial_{a}=\partial / \partial q^{a} \text { y } \partial_{a}^{\prime}=\partial / \partial q^{\prime a}}
 $$
 
-Ecu {\qquad H\left(q^{a}, \partial_{a} S, t\right)+\partial_{t} S=0}
+Ecuación de Hamilton-Jacobi:
 $$
+{\qquad H\left(q^{a}, \partial_{a} S, t\right)+\partial_{t} S=0}
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjgwNjI0MywtMjI5MjQyNDYsMTQxOD
-kyMTk0MV19
+eyJoaXN0b3J5IjpbNDg4MDAxNjI2LC0yMjkyNDI0NiwxNDE4OT
+IxOTQxXX0=
 -->
