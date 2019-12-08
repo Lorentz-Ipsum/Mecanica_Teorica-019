@@ -21,7 +21,11 @@ $$
 {\qquad H\left(q^{a}, \partial_{a} S, t\right)+\partial_{t} S=0}
 $$
 
+Solve for S.
+
+Función principal de Hamilton::
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4MDAxNjI2LC0yMjkyNDI0NiwxNDE4OT
+eyJoaXN0b3J5IjpbMzg3MjM2OTA0LC0yMjkyNDI0NiwxNDE4OT
 IxOTQxXX0=
 -->
