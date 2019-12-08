@@ -45,10 +45,13 @@ $$
 $$
 
 $$
-{\frac{\partial S}{\partial q_{0}^{a}}=-p_{0 a}, \quad \frac{\partial S}{\partial q_{1}^{a}}=p_{\mathrm{lu}}, \quad \frac{\partial S}{\partial t_{1}}=-H\left(q_{1}, p_{1}, t_{1}\right)}\end{array}
+{\frac{\partial S}{\partial q_{0}^{a}}=-p_{0 a}, \quad \frac{\partial S}{\partial q_{1}^{a}}=p_{\mathrm{lu}}, \quad \frac{\partial S}{\partial t_{1}}=-H\left(q_{1}, p_{1}, t_{1}\right)}
 $$
 
+	Soluciones completas:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjMxNjA3LC0yMjkyNDI0NiwxNDE4OT
-IxOTQxXX0=
+eyJoaXN0b3J5IjpbLTE5MTgzNzk3MzUsLTIyOTI0MjQ2LDE0MT
+g5MjE5NDFdfQ==
 -->
