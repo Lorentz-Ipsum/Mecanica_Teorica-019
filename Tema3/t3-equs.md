@@ -24,6 +24,8 @@ $$
 Solve for S.
 
 	 Función principal de Hamilton::
+
+Acción de la trayectoria:
 $$
 {S\left(q_{0}, t_{0}, q_{1}, t_{1}\right)=S\left[q_{\text {clis }}(t)\right]}
 $$
@@ -35,7 +37,9 @@ $$
 $$
 {q_{\text {clist }}^{a}\left(t_{0}\right) =q_{0}^{a}, \quad q_{\text {clis }}^{a}\left(t_{1}\right)=q_{1}^{a}}
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc4MzI4MzUsLTIyOTI0MjQ2LDE0MT
-g5MjE5NDFdfQ==
+eyJoaXN0b3J5IjpbMjQyOTg0MTM3LC0yMjkyNDI0NiwxNDE4OT
+IxOTQxXX0=
 -->
