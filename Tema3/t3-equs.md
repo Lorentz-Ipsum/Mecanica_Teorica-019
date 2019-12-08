@@ -25,7 +25,7 @@ Solve for S.
 
 	 Función principal de Hamilton::
 
-Acción de la trayectoria:
+Acción de la trayectoria=  F ppal Ham
 $$
 {S\left(q_{0}, t_{0}, q_{1}, t_{1}\right)=S\left[q_{\text {clis }}(t)\right]}
 $$
@@ -38,8 +38,17 @@ $$
 {q_{\text {clist }}^{a}\left(t_{0}\right) =q_{0}^{a}, \quad q_{\text {clis }}^{a}\left(t_{1}\right)=q_{1}^{a}}
 $$
 
+Derivadas:
+
+$$
+{\delta S=\left(p_{a} \delta q^{a}-H \delta t\right)_{b}^{t_{1}}} 
+$$
+
+$$
+{\frac{\partial S}{\partial q_{0}^{a}}=-p_{0 a}, \quad \frac{\partial S}{\partial q_{1}^{a}}=p_{\mathrm{lu}}, \quad \frac{\partial S}{\partial t_{1}}=-H\left(q_{1}, p_{1}, t_{1}\right)}\end{array}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyOTg0MTM3LC0yMjkyNDI0NiwxNDE4OT
+eyJoaXN0b3J5IjpbLTUwNjMxNjA3LC0yMjkyNDI0NiwxNDE4OT
 IxOTQxXX0=
 -->
