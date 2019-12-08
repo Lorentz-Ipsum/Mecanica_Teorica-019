@@ -23,14 +23,19 @@ $$
 
 Solve for S.
 
-Función principal de Hamilton::
+	 Función principal de Hamilton::
 $$
 {S\left(q_{0}, t_{0}, q_{1}, t_{1}\right)=S\left[q_{\text {clis }}(t)\right]}
 $$
+
 $$
-{S\left(q_{0}, t_{0}, q_{1}, t_{1}\right) =\int_{t_{0}}^{t_{1}} L\left(q_{\text {clis }}(t), \dot{q}_{\text {clis }}(t), t\right) \mathrm{d} t \qquaf q_{\text {clist }}^{a}\left(t_{0}\right) =q_{0}^{a}, \quad q_{\text {clis }}^{a}\left(t_{1}\right)=q_{1}^{a}
+{S\left(q_{0}, t_{0}, q_{1}, t_{1}\right) =\int_{t_{0}}^{t_{1}} L\left(q_{\text {clis }}(t), \dot{q}_{\text {clis }}(t), t\right) \mathrm{d} t }
+$$
+
+$$
+{q_{\text {clist }}^{a}\left(t_{0}\right) =q_{0}^{a}, \quad q_{\text {clis }}^{a}\left(t_{1}\right)=q_{1}^{a}}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzA2MjUwLC0yMjkyNDI0NiwxNDE4OT
-IxOTQxXX0=
+eyJoaXN0b3J5IjpbLTEzOTc4MzI4MzUsLTIyOTI0MjQ2LDE0MT
+g5MjE5NDFdfQ==
 -->
