@@ -1,9 +1,5 @@
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 # Ecuaciones de Garay
 
 # Leyes de transformación
@@ -65,7 +61,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2OTQ0ODc4LC0xODM3Mzk2MjA2LDEwNT
-U3MTYzMTYsMTk3MjA5MDAxNSwtMjA4ODc0NjYxMiw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbNzgzOTkxMzA1LDk3Njk0NDg3OCwtMTgzNz
+M5NjIwNiwxMDU1NzE2MzE2LDE5NzIwOTAwMTUsLTIwODg3NDY2
+MTIsNzMwOTk4MTE2XX0=
 -->
