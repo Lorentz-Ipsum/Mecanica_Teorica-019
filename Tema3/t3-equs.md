@@ -41,7 +41,7 @@ $$
 Derivadas:
 
 $$
-{\delta S=\left(p_{a} \delta q^{a}-H \delta t\right)_{b}^{t_{1}}} 
+{\delta S=\left(p_{a} \delta q^{a}-H \delta t\right)_{b}^{t_{1}}}
 $$
 
 $$
@@ -50,8 +50,14 @@ $$
 
 	Soluciones completas:
 
+Condición:
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTgzNzk3MzUsLTIyOTI0MjQ2LDE0MT
-g5MjE5NDFdfQ==
--->
+$$
+S(q,\alpha,t) \text{ completa} \iff \operatorname{det}\left(\partial^{2} S / \partial q^{a} \partial \alpha^{b}\right) \neq 0
+$$
+
+Solución completa es generatriz de una TC:
+
+$$
+p_{a}=\frac{\partial S(q, \alpha, t)}{\partial q^{a}}, \quad \beta_{a}=-\frac{\partial S(q, \alpha, t)}{\partial \alpha^{a}}
+$$
