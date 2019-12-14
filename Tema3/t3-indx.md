@@ -44,11 +44,24 @@ Garay:
 >  3.2.1. Teorema de Liouville
 3.2.2. Teorema de Arnold
 
+#### 3.2.1. Teorema de Liouville
 
-### 3.3. Variables de acción-ángulo
+> Las ecuaciones de movimiento se pueden reducir a cuadraturas.
+
+#### 3.2.2. Teorema de Arnold
+
+
+## 3.3. Variables de acción-ángulo
 
 Garay:
 > 3.3.1. Sistemas con un grado de libertad
 3.3.2. Sistemas con un número arbitrario de grados de libertad
 3.3.3. Acción-ángulo y Hamilton-Jacobi
 3.3.4. Movimiento condicionalmente periódico
+
+#### 3.3.1. Sistemas con un grado de libertad
+
+
+#### 3.3.2. Sistemas con un número arbitrario de grados de libertad
+#### 3.3.3. Acción-ángulo y Hamilton-Jacobi
+#### 3.3.4. Movimiento condicionalmente periódico
