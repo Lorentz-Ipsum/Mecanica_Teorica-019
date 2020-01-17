@@ -1,7 +1,7 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 # Sistemas Hamiltonianos
- 
+
 ### Coordenadas unificadas
 
 $$
@@ -70,7 +70,7 @@ $$
 # Derivada de Lie
 
 
-# $X_f = \dot{\gamma} \partial_\alpha f$
+$\color{green}{\huge X_f = \dot{\gamma} \partial_\alpha f}$
 
 1-Forma
 
@@ -100,17 +100,9 @@ $$
 ### Transformaciones
 
 $$
-x'^\alpha = \frac{d\xi'^\alpha} { d\xi^\beta} x^\beta 
+x'^\alpha = \frac{d\xi'^\alpha} { d\xi^\beta} x^\beta
 $$
 
 $$
-\sigma_\alpha = \frac{d\xi^\alpha} { d\xi'^\beta} \sigma_\beta 
+\sigma_\alpha = \frac{d\xi^\alpha} { d\xi'^\beta} \sigma_\beta
 $$
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzQ2ODU4LDE1Mjc5NTYxMDksNzMwOT
-k4MTE2XX0=
--->

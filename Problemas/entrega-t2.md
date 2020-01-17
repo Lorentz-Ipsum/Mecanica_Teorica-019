@@ -11,8 +11,8 @@ m b^2 q_3 &= m \ddot{q_3}
 $$
 
 # Sistemas Hamiltonianos
- 
- 
+
+
 $$
 \dot{p}_\alpha = - \frac{\partial H}{\partial q^\alpha} \quad \quad  \dot{q}_\alpha = \frac{\partial H}{\partial p^\alpha}
 $$
@@ -75,7 +75,7 @@ $$
 $$
 
 $$
-X_H = \left( - b q_{1}  + \frac{p_{1}}{m} \right) \frac{\partial}{\partial q^1} +   \frac{p_{2}}{m} \frac{\partial}{\partial q^2}  +  \frac{p_{3}}{m} \frac{\partial}{\partial q^3} + \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2} 
+X_H = \left( - b q_{1}  + \frac{p_{1}}{m} \right) \frac{\partial}{\partial q^1} +   \frac{p_{2}}{m} \frac{\partial}{\partial q^2}  +  \frac{p_{3}}{m} \frac{\partial}{\partial q^3} + \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right) \frac{\partial}{\partial p^1} + \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}\frac{\partial}{\partial p^2}
 $$
 
 ---
@@ -84,13 +84,13 @@ $$
 \begin{aligned}
 X_H[q^1] &= \left( - b q_{1}  + \frac{p_{1}}{m} \right)
 \\ X_H[q^2] &= \frac{p_{2}}{m}
-\\ X_H[q^3] &= \frac{p_{3}}{m} 
+\\ X_H[q^3] &= \frac{p_{3}}{m}
 \end{aligned}
 \quad
 \begin{aligned}
 X_H[p_1] &= \left( \frac{a q_1}{(q_1^2 + q_2^2)^{\frac{3}{2}}}  -  bp_1 \right)
 \\ X_H[p_2] &= \frac{aq_2}{(q_1^2 + q_2^2)^{\frac{3}{2}}}
-\\ X_H[p_3] &= 0 
+\\ X_H[p_3] &= 0
 \end{aligned}
 $$
 
@@ -202,25 +202,27 @@ Con $\Omega | _{\mathcal{L}_g}$ una restricción en la variedad a $g$ constante 
 # Links
 
 [ | Integral invariant - Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Integral_invariant)
+
 [ | 13798.pdf](http://diposit.ub.edu/dspace/bitstream/2445/24549/1/13798.pdf)
+
 [ | Poincaré Invariants](https://farside.ph.utexas.edu/teaching/plasma/lectures1/node19.html)
+
 [ | corchetes de poisson - Google Search](https://www.google.com/search?client=firefox-b-d&q=corchetes+de+poisson)
+
 [ | Poisson bracket - Wikipedia](https://en.wikipedia.org/wiki/Poisson_bracket)
+
 [ | Corchete de Poisson - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Corchete_de_Poisson)
+
 [ | List of LaTeX mathematical symbols - OeisWiki](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+
 [ | Corchete de Poisson - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Corchete_de_Poisson)
+
 [ | transformaciones canónicas - Google Search](https://www.google.com/search?client=firefox-b-d&q=transformaciones+can%C3%B3nicas)
+
 [ | Transformación canónica - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Transformaci%C3%B3n_can%C3%B3nica)
+
 [ | Transformaciones infinitesimales](http://delta.cs.cinvestav.mx/~mcintosh/comun/pb/node5.html)
+
 [ | Transformaciones canónicas](http://delta.cs.cinvestav.mx/~mcintosh/comun/pb/node4.html)
 
 https://macul.ciencias.uchile.cl/alejo/clases/2019_mechanics/capitulo_5.pdf
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc2MjI5ODMsLTIwMDE4MTM3NDUsLT
-UzMjMzOTIxNSwtMTMzNzMxMDE0OSwtMzg1NzQ1OTc5LDgyODIx
-MDAzOSw4Mjg5Mjc0NywtMTM3MzA0MDYwMywtOTI4MzgwNzgsMz
-Y2OTQ2ODgzLC04Nzk4MTA2NDEsLTMwNTgwODUxMiwtMTk0MTkw
-NTMwMywxNjUwODkyOTIxLDE5Mjk2MTY3OTIsLTE5NTA1ODI5Nz
-csLTE0NjAzMjc4NzAsNzMwOTk4MTE2XX0=
--->

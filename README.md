@@ -42,10 +42,3 @@ Tema 2 /  [Ecuaciones T2](Tema2/t2-equs.md)
 ---
 > Anuncio de cereales
 ---
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjcwMDE0OSwtMjA1MDM4NjM1LDIxMz
-A3NzMyODEsLTE4MzAyODY1NzcsLTEyMTM4MzkzMjUsMTEzNzU2
-NTc5NSwyNzc3MTEwNzIsLTIxMzcxODU5NjVdfQ==
--->
