@@ -69,8 +69,9 @@ $$
 
 # Derivada de Lie
 
-
-$\color{green}{\huge X_f = \dot{\gamma} \partial_\alpha f}$
+$$
+\color{green}{\huge X_f = \dot{\gamma} \partial_\alpha f}
+$$
 
 1-Forma
 
